@@ -1,6 +1,4 @@
-# judo
-
-Repo for Judo related code, graphics, information.
+# 柔道 (Judo)
 
 >精力善用 (seiryoku zen'yō)   
 >*"Maximum efficiency, minimum effort."*
@@ -61,7 +59,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 跳腰 | Hane-goshi  | | 1895 |
 | 移腰 | Utsuri-goshi | | 1895 |
 | 後腰 | Ushiro-goshi | | 1895 |
-| ~~抱上 | Daki-age~~ | | 1997 |
+| ~~抱上~~ | ~~Daki-age~~ | | 1997 |
 
 ### 足 技（Ashi-waza）
 
@@ -117,17 +115,61 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 内股巻込 | Uchi-mata-makikomi | | 1997 |
 | 払巻込 | Harai-makikomi |  | 1997 |
 | 小内巻込 | Ko-uchi-makikomi | 2017 |
-| 蟹挟 | Kani-basami |  | 1997 |
-| ~~河津掛 | Kawazu-gake~~ |  | 1997 |
+| ~~蟹挟~~ | ~~Kani-basami~~ |  | 1997 |
+| ~~河津掛~~ | ~~Kawazu-gake~~ |  | 1997 |
+
+---
 
 ## 固技 (Katame-waza)
 
 ### 抑 込 技（Osaekomi-waza）
 
+| Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
+| ---:  | ---: | ---:        | --- |
+| 袈裟固 | Kesa-gatame |
+| 崩袈裟固 | Kuzure-kesa-gatame |
+| 後袈裟固 | Ushiro-kesa-gatame |
+| 肩固 | Kata-gatame |
+| 上四方固 | Kami-shiho-gatame |
+| 崩上四方固 | Kuzure-kami-shiho-gatame |
+| 横四方固 | Yoko-shiho-gatame |
+| 縦四方固 | Tate-shiho-gatame |
+| 浮固 | Uki-gatame |
+| 裏固 | Ura-gatame |
+
 ### 絞 技（Shime-waza）
+
+| Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
+| ---:  | ---: | ---:        | --- |
+| 並十字絞 | Nami-juji-jime |
+| 逆十字絞 | Gyaku-juji-jime |
+| 片十字絞 | Kata-juji-jime |
+| 裸絞 | Hadaka-jime |
+| 胴絞 | Do-jime |
+| 片手絞 | Katate-jime |
+| 両手絞 | Ryote-jime |
+| 袖車絞 | Sode-guruma-jime |
+| 突込絞 | Tsukkomi-jime |
+| 三角絞 | Sankaku-jime |
+| 送襟絞 | Okuri-eri-jime |
+| 片羽絞 | Kataha-jime |
 
 ### 関 節 技（Kansetsu-waza）
 
+| Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
+| ---:  | ---: | ---:        | --- |
+| 腕挫三角固 | Ude-hishigi-sankaku-gatame |
+| 足緘 | Ashi-garami |
+| 腕挫腕固 | Ude-hishigi-ude-gatame |
+| 腕挫膝固 | Ude-hishigi-hiza-gatame |
+| 腕挫腋固 | Ude-hishigi-waki-gatame |
+| 腕挫腹固 | Ude-hishigi-hara-gatame |
+| 腕挫脚固 | Ude-hishigi-ashi-gatame |
+| 腕挫手固 | Ude-hishigi-te-gatame |
+| 腕緘 | Ude-garami |
+| 腕挫十字固 | Ude-hishigi-juji-gatame |
+
+---
 
 Sources: 
 
