@@ -39,7 +39,7 @@
 | 受け身 | Ukemi | Breakfall| 
 | 投 | Nage | Throw| 
 | 型 | Kata | Pattern, model| 
-| 固 | Katame <br> `rendaku` -gatame | Hold| 
+| 固 | Katame <br> `-gatame` | Hold| 
 | 抑込 | Osaekomi | Hold (down) / Pin| 
 | 関節 | Kansetsu | Lock| 
 | 絞 | Shime <br> `-jime` | Choke| 
