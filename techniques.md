@@ -17,17 +17,19 @@ Below is a list of Judo techniques along with their common English names. The 10
 | ---:   | ---: | ---:        | --- |
 | 背負投     | Seoi-nage           | *Shoulder throw*          | `1895------------` |
 | 一本背負投 | Ippon-seoi-nage     | *Single shoulder throw*   | `          1997--` |
+| ` `        | `Morote-eri-seoi-nage`| *`Two handed collar seoi nage`*|                |
 | 裏投       | Ura-nage            | *Rear throw*              | `1895------------` |
 | 掬投       | Sukui-nage          | *~~Scoop throw~~*         | `   1920---------` |
 | 背負落     | Seoi-otoshi         | *Shoulder drop*           | `1895------------` |
+| ` `        | `Ryo-hiza-seoi-otoshi`| *`Drop knee seoi-otoshi`*|                |
 | 体落       | Tai-otoshi          | *Body drop*               | `1895------------` |
 | 帯落       | Obi-otoshi          | *Belt drop*               | `1895------------` |
 | 浮落       | Uki-otoshi          | *Floating drop*           | `1895------------` |
 | 隅落       | Sumi-otoshi         | *Corner drop*             | `   1920---------` |
 | 山嵐       | Yama-arashi         | *Mountain storm*          | `1895------------` |
 | 帯取返     | Obi-tori-gaeshi     | *Belt take reversal*      | `            2017` |
-| 小内返     | Ko-uchi-gaeshi      | *Ko uchi [gari] reverse <br> (counter to kouchigari)* | `          1997--` |
-| 内股すかし | Uchi-mata-sukashi   | *Uchi mata void <br> (counter to uchi mata)* | `          1997--` |
+| 小内返     | Ko-uchi-gaeshi      | *Kouchi reverse <br> (counter to kouchi-gari)* | `          1997--` |
+| 内股すかし | Uchi-mata-sukashi   | *Uchi-mata void <br> (counter to uchi-mata)* | `          1997--` |
 | 朽木倒     | Kuchiki-taoshi      | *~~Single leg takedown~~* | `          1997--` |
 | 踵返       | Kibisu-gaeshi       | *~~One hand reversal~~*   | `          1997--` |
 | 肩車       | Kata-guruma         | *~~Shoulder wheel~~*      | `1895------------` |
@@ -44,12 +46,12 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 払腰     | Harai-goshi         | *Sweeping hip*          | `1895------------` |
 | 跳腰     | Hane-goshi          | *Spring hip*            | `1895------------` |
 | 釣腰     | Tsuri-goshi         | *Lifting hip*           | `1895------------` |
-| 釣込腰   | Tsurikomi-goshi     | Lifting and pulling hip                  | `  1911----------` (?) |
+| 釣込腰   | Tsurikomi-goshi     | *Lifting and pulling hip*                | `  1911----------` (?) |
 | 袖釣込腰 | Sode-tsurikomi-goshi | *Sleeve lifting and pulling hip*        | `          1997--` |
-| 移腰     | Utsuri-goshi        | *Hip shift <br> (counter to koshi waza)* | `1895------------` |
-| 後腰     | Ushiro-goshi        | *Rear hip <br> (counter to koshi waza)*  | `1895------------` |
+| 移腰     | Utsuri-goshi        | *Hip shift <br> (counter to koshi-waza)* | `1895------------` |
+| 後腰     | Ushiro-goshi        | *Rear hip <br> (counter to koshi-waza)*  | `1895------------` |
 | ~~抱上~~ | 🚫 ~~Daki-age~~     | ~~*Hugging high lift*~~                 | `          1997--` |
-| `飛腰`   | `Tobi goshi`         | `Flying/surfing hip throw` <br> `(counter to koshiwaza)`    | |
+| `飛腰`   | `Tobi goshi`         | `Surfing hip throw` <br> `(counter to koshi-waza)`    | |
 | `後車`   | `Ushiro Guruma`      | `Rear wheel`                           | |
 
 ### 足 技（Ashi-waza）
@@ -71,12 +73,12 @@ Below is a list of Judo techniques along with their common English names. The 10
 |    大車 | O-guruma              | *Big wheel*       | `   1920---------` |
 |  大外車 | O-soto-guruma         | *Big outer wheel* | `1895------------` |
 |  大外落 | O-soto-otoshi         | *Big outer drop*  | `1895------------` |
-|  大外返 | O-soto-gaeshi         | *Osoto [gari] reversal <br> (counter to osotogari)* | `          1997--` |
-|  大内返 | O-uchi-gaeshi         | *Ouchi [gari] reversal <br> (counter to ouchigari)* | `          1997--` |
-|    燕返 | Tsubame-gaeshi        | *Swallow reversal <br> (counter to ashi waza)*      | `         1982---` |
-|  跳腰返 | Hane-goshi-gaeshi     | *Hane-goshi reversal <br> (counter to hanegoshi)*   | `          1997--` |
-|  払腰返 | Harai-goshi-gaeshi    | *Harai-goshi reversal <br> (counter to haraigoshi)* | `          1997--` |
-|  内股返 | Uchi-mata-gaeshi      | *Uchi-mata reversal <br> (counter to uchimata)*     | `          1997--` |
+|  大外返 | O-soto-gaeshi         | *Osoto reversal <br> (counter to osoto-gari)* | `          1997--` |
+|  大内返 | O-uchi-gaeshi         | *Ouchi reversal <br> (counter to ouchi-gari)* | `          1997--` |
+|    燕返 | Tsubame-gaeshi        | *Swallow reversal <br> (counter to ashi-waza)*      | `         1982---` |
+|  跳腰返 | Hane-goshi-gaeshi     | *Hane-goshi reversal <br> (counter to hane-goshi)*   | `          1997--` |
+|  払腰返 | Harai-goshi-gaeshi    | *Harai-goshi reversal <br> (counter to harai-goshi)* | `          1997--` |
+|  内股返 | Uchi-mata-gaeshi      | *Uchi-mata reversal <br> (counter to uchi-mata)*     | `          1997--` |
 
 ### 真捨身技（Ma-sutemi-waza）
 
@@ -96,7 +98,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 谷落 | Tani-otoshi     | *Valley drop*        | `1895------------` |
 | 横落 | Yoko-otoshi     | *Side drop*          | `1895------------` |
 | 横掛 | Yoko-gake       | *Side hook*        | `1895------------` |
-| `横巴投` | `Yoko-tomoe-nage` | *`Side 'circle' throw`* | |
+| `横巴投` | `Yoko-tomoe-nage` | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tomoe_2_right.png/900px-Tomoe_2_right.png" height="12"> *`Side tomoe nage`* | |
 | 横車 | Yoko-guruma     | *Side wheel*       | `1895------------` |
 | 横分 | Yoko-wakare     | *Side separation*  | `1895------------` |
 | 抱分 | Daki-wakare     | *High separation*  | `1895------------` |
@@ -121,11 +123,11 @@ Below is a list of Judo techniques along with their common English names. The 10
 | Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:  | ---: | ---:        | --- |
 | 袈裟固     | Kesa-gatame        | *Scarf hold*                    |
-| 崩袈裟固   | Kuzure-kesa-gatame | *Broken kesagatame*             |
-| 後袈裟固   | Ushiro-kesa-gatame | *Rear kesagatame*               |
+| 崩袈裟固   | Kuzure-kesa-gatame | *Broken kesa-gatame*             |
+| 後袈裟固   | Ushiro-kesa-gatame | *Rear kesa-gatame*               |
 | 肩固       | Kata-gatame        | *Shoulder hold*                 | 
 | 上四方固   | Kami-shiho-gatame   | *Upper four-quarters hold*     |
-| 崩上四方固 | Kuzure-kami-shiho-gatame | *Broken kamishihogatame*   | 
+| 崩上四方固 | Kuzure-kami-shiho-gatame | *Broken kami-shiho-gatame*   | 
 | 横四方固   | Yoko-shiho-gatame   | *Side four-quarters hold*       |
 | 縦四方固   | Tate-shiho-gatame   | *Vertical four-quarters hold*   |
 | 浮固       | Uki-gatame          | *Floating hold (knee on belly)* |
@@ -146,7 +148,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 袖車絞   | Sode-guruma-jime | *Sleeve wheel strangle*  |
 | 突込絞   | Tsukkomi-jime   | *Thrust choke*           |
 | 三角絞   | Sankaku-jime    | *Triangle strangle*      |
-| ~~胴絞~~ | 🚫 ~~Do-jime~~ | ~~*Trunk strangle*~~     |   | 
+| ~~胴絞~~ | 🚫 ~~Do-jime~~ | ~~*Trunk crush*~~     |   | 
 | `地獄絞` | `Jigoku-jime`   | `Hell strangle (crucifix strangle)` |
 
 ### 関 節 技（Kansetsu-waza）
@@ -160,7 +162,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 腕挫腹固  | Ude-hishigi-hara-gatame     | *Stomach arm-bar*     |
 | 腕挫脚固  | Ude-hishigi-ashi-gatame     | *Leg arm-bar*         |
 | 腕挫手固  | Ude-hishigi-te-gatame       | *Hand arm-bar*        |
-| 腕挫十字固 | Ude-hishigi-juji-gatame    | *Cross arm=bar*       |
+| 腕挫十字固 | Ude-hishigi-juji-gatame    | *Cross arm-bar*       |
 | 腕緘      | Ude-garami                  | *Arm entanglement*    |
 | ~~足緘~~  | 🚫 ~~Ashi-garami~~         | ~~*Leg entanglement*~~ |
 
