@@ -96,7 +96,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:  | ---: | ---:        | --- |
 |  裏投 | Ura-nage          | *Rear throw*         | `1895------------` |
-|  巴投 | Tomoe-nage        | *'Circle' throw*     | `1895------------` |
+|  巴投 | Tomoe-nage        | *'Circle' throw*  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tomoe_2_right.png/900px-Tomoe_2_right.png" height="12">   | `1895------------` |
 |  隅返 | Sumi-gaeshi       | *Corner reversal*    | `1895------------` |
 |  引込返 | Hikikomi-gaeshi | *Pulling in reversal* | `1895------------` |
 |  俵返 | Tawara-gaeshi     | *Rice bag reversal*   | `1895------------` |
