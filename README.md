@@ -8,7 +8,8 @@
 `jita kyōei`  
 >*"Mutual welfare and benefit."*
 
->In short, resisting a more powerful opponent will result in your defeat, whilst adjusting to and evading your opponent's attack will cause him to lose his balance, his power will be reduced, and you will defeat him. This can apply whatever the relative values of power, thus making it possible for weaker opponents to beat significantly stronger ones. This is the theory of **柔よく剛を制す** `jū yoku gō o seisu`  
+>In short, resisting a more powerful opponent will result in your defeat, whilst adjusting to and evading your opponent's attack will cause him to lose his balance, his power will be reduced, and you will defeat him. This can apply whatever the relative values of power, thus making it possible for weaker opponents to beat significantly stronger ones. This is the theory of **柔よく剛を制す**  
+`jū yoku gō o seisu`   
 >*"Softness controls hardness."*
 
 # Techniques
@@ -87,9 +88,9 @@ Below is a list of Judo techniques along with their common English names. The 10
 |  大外返 | O-soto-gaeshi         | *Osoto [gari] reversal <br> (counter to osotogari)* | `          1997--` |
 |  大内返 | O-uchi-gaeshi         | *Ouchi [gari] reversal <br> (counter to ouchigari)* | `          1997--` |
 |    燕返 | Tsubame-gaeshi        | *Swallow reversal <br> (counter to ashi waza)*      | `         1982---` |
-|  跳腰返 | Hane-goshi-gaeshi     | *Hane goshi reversal <br> (counter to hanegoshi)*   | `          1997--` |
-|  払腰返 | Harai-goshi-gaeshi    | *Harai goshi reversal <br> (counter to haraigoshi)* | `          1997--` |
-|  内股返 | Uchi-mata-gaeshi      | *Uchi mata reversal <br> (counter to uchimata)*     | `          1997--` |
+|  跳腰返 | Hane-goshi-gaeshi     | *Hane-goshi reversal <br> (counter to hanegoshi)*   | `          1997--` |
+|  払腰返 | Harai-goshi-gaeshi    | *Harai-goshi reversal <br> (counter to haraigoshi)* | `          1997--` |
+|  内股返 | Uchi-mata-gaeshi      | *Uchi-mata reversal <br> (counter to uchimata)*     | `          1997--` |
 
 ### 真捨身技（Ma-sutemi-waza）
 
@@ -113,14 +114,14 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 横車 | Yoko-guruma     | *Side wheel*       | `1895------------` |
 | 横分 | Yoko-wakare     | *Side separation*  | `1895------------` |
 | 抱分 | Daki-wakare     | *High separation*  | `1895------------` |
-| 外巻込 | Soto-makikomi          | *Outer wraparound*         | `1895------------` |
-| 内巻込 | Uchi-makikomi          | *Inner wraparound*         | `1895------------` |
-| 跳巻込 | Hane-makikomi          | *Hanegoshi wraparound*     | `   1920---------` |
-| 払巻込    | Harai-makikomi      | *Hariagoshi wraparound*    | `          1997--` |
-| 大外巻込  | O-soto-makikomi     | *Osotogari wraparound*     | `          1997--` |
-| 内股巻込  | Uchi-mata-makikomi  | *Uchimata wraparound*      | `          1997--` |
-| 小内巻込  | Ko-uchi-makikomi    | *Kouchigari wraparound*    | `            2017` |
-| ~~蟹挟~~  | 🚫 ~~Kani-basami~~ | ~~*Crab pinch*~~           | `          1997--` |
+| 外巻込 | Soto-makikomi          | *Outer wraparound*          | `1895------------` |
+| 内巻込 | Uchi-makikomi          | *Inner wraparound*          | `1895------------` |
+| 跳巻込 | Hane-makikomi          | *Hane-goshi wraparound*     | `   1920---------` |
+| 払巻込    | Harai-makikomi      | *Harai-goshi wraparound*    | `          1997--` |
+| 大外巻込  | O-soto-makikomi     | *Osoto-gari wraparound*     | `          1997--` |
+| 内股巻込  | Uchi-mata-makikomi  | *Uchi-mata wraparound*      | `          1997--` |
+| 小内巻込  | Ko-uchi-makikomi    | *Kouchi-gari wraparound*    | `            2017` |
+| ~~蟹挟~~  | 🚫 ~~Kani-basami~~ | ~~*Crab pinch*~~            | `          1997--` |
 | ~~河津掛~~ | 🚫 ~~Kawazu-gake~~ | ~~*One leg entanglement*~~ | `          1997--` |
 | ~~`彈車`~~ | ~~`Tama-guruma`~~  | ~~`Jade wheel`~~            ||
 | `腕返`     | `Ude-gaeshi`       | *`Arm reversal`*            ||
@@ -160,21 +161,22 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 突込絞   | Tsukkomi-jime   | *Thrust choke*           |
 | 三角絞   | Sankaku-jime    | *Triangle strangle*      |
 | ~~胴絞~~ | 🚫 ~~Do-jime~~ | ~~*Trunk strangle*~~     |   | 
+| `地獄絞` | `Jigoku-jime`   | `Hell strangle (crucifix strangle)` |
 
 ### 関 節 技（Kansetsu-waza）
 
 | Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:  | ---: | ---:        | --- |
-| 腕挫三角固 | Ude-hishigi-sankaku-gatame |
-| 足緘      | Ashi-garami             |
-| 腕挫腕固  | Ude-hishigi-ude-gatame  |
-| 腕挫膝固  | Ude-hishigi-hiza-gatame |
-| 腕挫腋固  | Ude-hishigi-waki-gatame |
-| 腕挫腹固  | Ude-hishigi-hara-gatame |
-| 腕挫脚固  | Ude-hishigi-ashi-gatame |
-| 腕挫手固  | Ude-hishigi-te-gatame   |
-| 腕緘      | Ude-garami              |
-| 腕挫十字固 | Ude-hishigi-juji-gatame |
+| 腕挫三角固 | Ude-hishigi-sankaku-gatame | *Triangle arm-bar*    |
+| 腕挫腕固  | Ude-hishigi-ude-gatame      | *Arm arm-bar*         |
+| 腕挫膝固  | Ude-hishigi-hiza-gatame     | *Knee arm-bar*        |
+| 腕挫腋固  | Ude-hishigi-waki-gatame     | *Armpit arm-bar*      |
+| 腕挫腹固  | Ude-hishigi-hara-gatame     | *Stomach arm-bar*     |
+| 腕挫脚固  | Ude-hishigi-ashi-gatame     | *Leg arm-bar*         |
+| 腕挫手固  | Ude-hishigi-te-gatame       | *Hand arm-bar*        |
+| 腕挫十字固 | Ude-hishigi-juji-gatame    | *Cross arm=bar*       |
+| 腕緘      | Ude-garami                  | *Arm entanglement*    |
+| ~~足緘~~  | 🚫 ~~Ashi-garami~~         | ~~*Leg entanglement*~~ |
 
 ---
 
