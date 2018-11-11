@@ -18,9 +18,9 @@ Below is a list of Judo techniques along with their common English names. The 10
 | |
 |---|
 |Kodokan technique, c. 2018 |
-|🚫 ~~Banned technique, dangerous~~ |
-| ~~Leg grabbing technique, IJF banned~~ |
 |*Non-kodokan technique* |
+| ~~IJF banned technique~~, leg grab |
+|🚫 ~~Banned technique~~, dangerous |
 
 ## 投技 (Nage-waza)
 
@@ -92,32 +92,32 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 | Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:  | ---: | ---:        | --- |
-|  巴投 | Tomoe-nage | | `1895------------` |
-|  隅返 | Sumi-gaeshi | | `1895------------` |
-|  引込返 | Hikikomi-gaeshi | | `1895------------` |
-|  俵返 | Tawara-gaeshi | | `1895------------` |
-|  裏投 | Ura-nage | | `1895------------` |
+|  裏投 | Ura-nage          | *Rear throw*         | `1895------------` |
+|  巴投 | Tomoe-nage        | *'Circle' throw*     | `1895------------` |
+|  隅返 | Sumi-gaeshi       | *Corner reversal*    | `1895------------` |
+|  引込返 | Hikikomi-gaeshi | *Pulling in reversal* | `1895------------` |
+|  俵返 | Tawara-gaeshi     | *Rice bag reversal*   | `1895------------` |
 
 ### 横捨身技（Yoko-sutemi-waza）
 
 | Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:  | ---: | ---:        | --- |
-| 横落 | Yoko-otoshi | | `1895------------` |
-| 谷落 | Tani-otoshi | | `1895------------` |
-| 跳巻込 | Hane-makikomi |  | `   1920---------` |
-| 外巻込 | Soto-makikomi | | `1895------------` |
-| 内巻込 | Uchi-makikomi | | `1895------------` |
-| 浮技 | Uki-waza | | `1895------------` |
-| 横分 | Yoko-wakare | | `1895------------` |
-| 横車 | Yoko-guruma | | `1895------------` |
-| 横掛 | Yoko-gake | | `1895------------` |
-| 抱分 | Daki-wakare | | `1895------------` |
-| 大外巻込 | O-soto-makikomi |  | `          1997--` |
-| 内股巻込 | Uchi-mata-makikomi | | `          1997--` |
-| 払巻込 | Harai-makikomi |  | `          1997--` |
-| 小内巻込 | Ko-uchi-makikomi | | `            2017` |
-| 蟹挟 | 🚫 ~~Kani-basami~~ |  | `          1997--` |
-| 河津掛 | 🚫 ~~Kawazu-gake~~ |  | `          1997--` |
+| 横落 | Yoko-otoshi     | *Side drop* | `1895------------` |
+| 谷落 | Tani-otoshi     | *Valley drop* | `1895------------` |
+| 浮技 | Uki-waza        | *Floating technique* | `1895------------` |
+| 抱分 | Daki-wakare     | *High separation* | `1895------------` |
+| 横分 | Yoko-wakare     | *Side separation* | `1895------------` |
+| 横車 | Yoko-guruma     |*Side wheel*  | `1895------------` |
+| 横掛 | Yoko-gake       | *Side hook* | `1895------------` |
+| 外巻込 | Soto-makikomi | *Outer wraparound* | `1895------------` |
+| 内巻込 | Uchi-makikomi | *Inner wraparound* | `1895------------` |
+| 跳巻込 | Hane-makikomi | *Hanegoshi wraparound* | `   1920---------` |
+| 払巻込   | Harai-makikomi      | *Hariagoshi wraparound* | `          1997--` |
+| 大外巻込 | O-soto-makikomi     | *Osotogari wraparound* | `          1997--` |
+| 内股巻込 | Uchi-mata-makikomi  | *Uchimata wraparound*| `          1997--` |
+| 小内巻込 | Ko-uchi-makikomi    | *Kouchigari wraparound* | `            2017` |
+| 蟹挟     | 🚫 ~~Kani-basami~~ | *Crab pinch* | `          1997--` |
+| 河津掛   | 🚫 ~~Kawazu-gake~~ | *One leg entanglement* | `          1997--` |
 
 ---
 
@@ -175,4 +175,4 @@ Below is a list of Judo techniques along with their common English names. The 10
 Sources: 
 
 - http://kodokanjudoinstitute.org/en/waza/list/
-- http://kodokanjudoinstitute.org/en/news/`            2017`/04/names-of-judo-technique/
+- http://kodokanjudoinstitute.org/en/news/2017/04/names-of-judo-technique/
