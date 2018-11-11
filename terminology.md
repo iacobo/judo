@@ -41,21 +41,42 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 受け身 | Ukemi | Breakfall| 
 | 投 | Nage | Throw| 
 | 型 | Kata | Pattern, model| 
+
+| Kanji | Romaji | Translation |
+|---:   | ---:   | ---:        |
 | 固 | Katame <br> `-gatame` | Hold| 
 | 抑込 | Osaekomi | Hold (down) / Pin| 
 | 関節 | Kansetsu | Lock| 
 | 絞 | Shime <br> `-jime` | Choke| 
 | 緘 | Karami <br> `-garami` | Entanglement| 
+
+| Kanji | Romaji | Translation |
+|---:   | ---:   | ---:        |
 | 突き | Tsuki | Punch| 
 | 蹴り | Keri <br> `-geri` | Kick| 
 | 刈 | Kari <br> `-gari` | Reap| 
 | 掛 | Kake <br> `-gake` | Hook, suspend| 
+
+| Kanji | Romaji | Translation |
+|---:   | ---:   | ---:        |
 | 払 | Harai <br> `-barai` | Sweep / Clear out| 
 | 落 | Otoshi | Drop| 
 | 浮 | Uki | Floating| 
 | 釣 | Tsuri | Lifting| 
 | 込 | Komi | Pulling| 
 | 返 | Kaeshi <br> `-gaeshi` | Twist| 
+
+| Kanji | Romaji | Translation |
+|---:   | ---:   | ---:        |
 | 車 | Kuruma <br> `-guruma` | Wheel| 
 | 十字 | Jūji | Cross| 
 | 片 | Kata | Partial / Single (of a pair)
+
+| Kanji | Romaji | Translation |
+|---:   | ---:   | ---:        |
+| 取り | Tori | Demonstrator of technique *"To take/choose"* | 
+| 受け | Uke | Demonstratee of technique *"To receive"*| 
+| 始め | Hajime | Beginning/start | 
+| 止め | Yame | Stop! | 
+| 待て | Mate | Wait! | 
+| 押忍 | Osu | 
