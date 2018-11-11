@@ -15,13 +15,13 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 | Kanji  | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:   | ---: | ---:        | --- |
-| [双手] 背負投     | [Morote] Seoi-nage           | *[Two hand] Shoulder throw*          | `1895------------` |
+| [双手]背負投     | [Morote] Seoi-nage           | *[Two hand] Shoulder throw*          | `1895------------` |
 | 一本背負投 | Ippon-seoi-nage     | *Single shoulder throw*   | `          1997--` |
 | `双手襟背負投`        | `Morote-eri-seoi-nage`| *`Two hand collar seoi nage`*|                |
 | 裏投       | Ura-nage            | *Rear throw*              | `1895------------` |
 | 掬投       | Sukui-nage          | *~~Scoop throw~~*         | `   1920---------` |
 | 背負落     | Seoi-otoshi         | *Shoulder drop*           | `1895------------` |
-| ` `        | `Ryo-hiza-seoi-otoshi`| *`Drop knee seoi-otoshi`*|                |
+| `両膝背負落` | `Ryo-hiza-seoi-otoshi`| *`Both knees seoi-otoshi`*|                |
 | 体落       | Tai-otoshi          | *Body drop*               | `1895------------` |
 | 帯落       | Obi-otoshi          | *Belt drop*               | `1895------------` |
 | 浮落       | Uki-otoshi          | *Floating drop*           | `1895------------` |
