@@ -8,9 +8,7 @@
 `jita kyōei`  
 >*"Mutual welfare and benefit."*
 
->In short, resisting a more powerful opponent will result in your defeat, whilst adjusting to and evading your opponent's attack will cause him to lose his balance, his power will be reduced, and you will defeat him. This can apply whatever the relative values of power, thus making it possible for weaker opponents to beat significantly stronger ones. This is the theory of  
-**柔よく剛を制す**   
-`jū yoku gō o seisu`  
+>In short, resisting a more powerful opponent will result in your defeat, whilst adjusting to and evading your opponent's attack will cause him to lose his balance, his power will be reduced, and you will defeat him. This can apply whatever the relative values of power, thus making it possible for weaker opponents to beat significantly stronger ones. This is the theory of **柔よく剛を制す** `jū yoku gō o seisu`  
 >*"Softness controls hardness."*
 
 # Techniques
@@ -22,7 +20,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | |
 |---|
 |Kodokan technique, c. 2018 |
-|*Non-kodokan technique* |
+|`Non-kodokan technique` |
 | ~~IJF banned technique~~, leg grab |
 |🚫 ~~Banned technique~~, dangerous |
 
@@ -49,6 +47,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 踵返   | Kibisu-gaeshi       | *~~One hand reversal~~* | `          1997--` |
 | 内股すかし | Uchi-mata-sukashi | *Uchi mata void <br> (counter to uchi mata)* | `          1997--` |
 | 小内返 | Ko-uchi-gaeshi        | *Ko uchi [gari] reverse <br> (counter to kouchigari)* | `          1997--` |
+| 手車   | `Te-guruma`          | *Hand wheel*           | |
 
 ### 腰 技（Koshi-waza）
 
@@ -64,7 +63,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 袖釣込腰 | Sode-tsurikomi-goshi | *Sleeve lifting and pulling hip* | `          1997--` |
 | 移腰     | Utsuri-goshi        | *Hip shift <br> (counter to koshi waza)* | `1895------------` |
 | 後腰     | Ushiro-goshi        | *Rear hip <br> (counter to koshi waza)*  | `1895------------` |
-| 抱上     | 🚫 ~~Daki-age~~     | *Hugging high lift*                     | `          1997--` |
+| 抱上     | 🚫 ~~Daki-age~~     | ~~*Hugging high lift*~~                     | `          1997--` |
 
 ### 足 技（Ashi-waza）
 
@@ -106,22 +105,22 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 | Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:  | ---: | ---:        | --- |
-| 横落 | Yoko-otoshi     | *Side drop* | `1895------------` |
-| 谷落 | Tani-otoshi     | *Valley drop* | `1895------------` |
+| 横落 | Yoko-otoshi     | *Side drop*          | `1895------------` |
+| 谷落 | Tani-otoshi     | *Valley drop*        | `1895------------` |
 | 浮技 | Uki-waza        | *Floating technique* | `1895------------` |
-| 抱分 | Daki-wakare     | *High separation* | `1895------------` |
-| 横分 | Yoko-wakare     | *Side separation* | `1895------------` |
-| 横車 | Yoko-guruma     |*Side wheel*  | `1895------------` |
-| 横掛 | Yoko-gake       | *Side hook* | `1895------------` |
+| 抱分 | Daki-wakare     | *High separation*  | `1895------------` |
+| 横分 | Yoko-wakare     | *Side separation*  | `1895------------` |
+| 横車 | Yoko-guruma     |*Side wheel*        | `1895------------` |
+| 横掛 | Yoko-gake       | *Side hook*        | `1895------------` |
 | 外巻込 | Soto-makikomi | *Outer wraparound* | `1895------------` |
 | 内巻込 | Uchi-makikomi | *Inner wraparound* | `1895------------` |
-| 跳巻込 | Hane-makikomi | *Hanegoshi wraparound* | `   1920---------` |
-| 払巻込   | Harai-makikomi      | *Hariagoshi wraparound* | `          1997--` |
-| 大外巻込 | O-soto-makikomi     | *Osotogari wraparound* | `          1997--` |
-| 内股巻込 | Uchi-mata-makikomi  | *Uchimata wraparound*| `          1997--` |
-| 小内巻込 | Ko-uchi-makikomi    | *Kouchigari wraparound* | `            2017` |
-| 蟹挟     | 🚫 ~~Kani-basami~~ | *Crab pinch* | `          1997--` |
-| 河津掛   | 🚫 ~~Kawazu-gake~~ | *One leg entanglement* | `          1997--` |
+| 跳巻込 | Hane-makikomi | *Hanegoshi wraparound*             | `   1920---------` |
+| 払巻込   | Harai-makikomi      | *Hariagoshi wraparound*    | `          1997--` |
+| 大外巻込 | O-soto-makikomi     | *Osotogari wraparound*     | `          1997--` |
+| 内股巻込 | Uchi-mata-makikomi  | *Uchimata wraparound*      | `          1997--` |
+| 小内巻込 | Ko-uchi-makikomi    | *Kouchigari wraparound*    | `            2017` |
+| 蟹挟     | 🚫 ~~Kani-basami~~ | ~~*Crab pinch*~~           | `          1997--` |
+| 河津掛   | 🚫 ~~Kawazu-gake~~ | ~~*One leg entanglement*~~ | `          1997--` |
 
 ---
 
