@@ -66,27 +66,27 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 | Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:  | ---: | ---:        | --- |
-|  出足払 | De-ashi-barai         |  | `1895------------` |
-|  送足払 | Okuri-ashi-barai     |  | `1895------------` |
-|    膝車 | Hiza-guruma           |  | `1895------------` |
-| 支釣込足 | Sasae-tsurikomi-ashi |  | `1895------------` |
-| 払釣込足 | Harai-tsurikomi-ashi |  | `1895------------` |
-|  大外刈 | O-soto-gari          |  | `1895------------` |
-|  大内刈 | O-uchi-gari          |  | `   1920---------` |
-|  小外刈 | Ko-soto-gari         |  | `1895------------` |
-|  小内刈 | Ko-uchi-gari         |  | `1895------------` |
-|  小外掛 | Ko-soto-gake         |  | `   1920---------` |
-|    内股 | Uchi-mata            |  | `1895------------` |
-|    足車 | Ashi-guruma          |  | `1895------------` |
-|    大車 | O-guruma              |  | `   1920---------` |
-|  大外車 | O-soto-guruma         |  | `1895------------` |
-|  大外落 | O-soto-otoshi         |  | `1895------------` |
-|    燕返 | Tsubame-gaeshi        |  | `          1997--` |
-|  大外返 | O-soto-gaeshi         |  | `          1997--` |
-|  大内返 | O-uchi-gaeshi         |  | `          1997--` |
-|  跳腰返 | Hane-goshi-gaeshi     |  | `          1997--` |
-|  払腰返 | Harai-goshi-gaeshi    |  | `          1997--` |
-|  内股返 | Uchi-mata-gaeshi      |  | `          1997--` |
+|  出足払 | De-ashi-barai         | *Advanced foot sweep* | `1895------------` |
+|  送足払 | Okuri-ashi-barai      | *Sliding foot sweep*  | `1895------------` |
+|    膝車 | Hiza-guruma           | *Knee wheel*          | `1895------------` |
+| 支釣込足 | Sasae-tsurikomi-ashi | *Propping drawing ankle throw* | `1895------------` |
+| 払釣込足 | Harai-tsurikomi-ashi | *Lift pull foot sweep*  | `1895------------` |
+|  大外刈 | O-soto-gari          | *Major outer reap* | `1895------------` |
+|  大内刈 | O-uchi-gari          | *Major inner reap* | `   1920---------` |
+|  小外刈 | Ko-soto-gari         | *Minor outer reap* | `1895------------` |
+|  小内刈 | Ko-uchi-gari         | *Minor inner reap* | `1895------------` |
+|  小外掛 | Ko-soto-gake         | *Minor outer hook* | `   1920---------` |
+|    内股 | Uchi-mata            | *Inner thigh* | `1895------------` |
+|    足車 | Ashi-guruma          | *Leg wheel* | `1895------------` |
+|    大車 | O-guruma              | *Big wheel* | `   1920---------` |
+|  大外車 | O-soto-guruma         | *Big outer wheel* | `1895------------` |
+|  大外落 | O-soto-otoshi         | *Big outer drop* | `1895------------` |
+|  大外返 | O-soto-gaeshi         | *Osoto [gari] reversal <br> (counter to osotogari)* | `          1997--` |
+|  大内返 | O-uchi-gaeshi         | *Ouchi [gari] reversal <br> (counter to ouchigari)* | `          1997--` |
+|    燕返 | Tsubame-gaeshi        | *Swallow reversal <br> (counter to ashi waza)* | `         1982---` |
+|  跳腰返 | Hane-goshi-gaeshi     | *Hane goshi reversal <br> (counter to hanegoshi)* | `          1997--` |
+|  払腰返 | Harai-goshi-gaeshi    | *Harai goshi reversal <br> (counter to haraigoshi)* | `          1997--` |
+|  内股返 | Uchi-mata-gaeshi      | *Uchi mata reversal <br> (counter to uchimata)* | `          1997--` |
 
 ### 真捨身技（Ma-sutemi-waza）
 
