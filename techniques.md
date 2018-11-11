@@ -106,8 +106,8 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 内巻込     | Uchi-makikomi       | *Inner wraparound*          | `1895------------` |
 | 跳巻込     | Hane-makikomi       | *Hane-goshi wraparound*     | `   1920---------` |
 | 払巻込     | Harai-makikomi      | *Harai-goshi wraparound*    | `          1997--` |
-| 大外巻込   | O-soto-makikomi     | *Osoto-gari wraparound*     | `          1997--` |
 | 内股巻込   | Uchi-mata-makikomi  | *Uchi-mata wraparound*      | `          1997--` |
+| 大外巻込   | O-soto-makikomi     | *Osoto-gari wraparound*     | `          1997--` |
 | 小内巻込   | Ko-uchi-makikomi    | *Kouchi-gari wraparound*    | `            2017` |
 | ~~蟹挟~~   | 🚫 ~~Kani-basami~~ | ~~*Crab pinch*~~            | `          1997--` |
 | ~~河津掛~~ | 🚫 ~~Kawazu-gake~~ | ~~*One leg entanglement*~~ | `          1997--` |
