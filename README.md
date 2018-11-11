@@ -1,4 +1,4 @@
-# 柔道 (Judo)
+# 柔道 (Judo) 🥋
 
 >精力善用 (seiryoku zen'yō)  
 >*"Maximum efficiency, minimum effort."*
@@ -19,8 +19,8 @@ Below is a list of Judo techniques along with their common English names. The 10
 |---|
 |Kodokan technique, c. 2018 |
 |🚫 ~~Banned technique, dangerous~~ |
-|*Non-kodokan technique* |
 | ~~Leg grabbing technique, IJF banned~~ |
+|*Non-kodokan technique* |
 
 ## 投技 (Nage-waza)
 
@@ -28,8 +28,8 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 | Kanji  | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:   | ---: | ---:        | --- |
-| 背負投 | Seoi-nage | Shoulder throw | `1895------------` |
-| 一本背負投 | Ippon-seoi-nage | Single shoulder throw | `          1997--` |
+| 背負投 | **Seoi-nage** | Shoulder throw | `1895------------` |
+| 一本背負投 | **Ippon-seoi-nage** | Single shoulder throw | `          1997--` |
 | 背負落 | Seoi-otoshi | Shoulder drop | `1895------------` |
 | 体落   | Tai-otoshi | Body drop | `1895------------` |
 | 肩車   | Kata-guruma | ~~Shoulder wheel~~ | `1895------------` |
