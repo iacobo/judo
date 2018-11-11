@@ -53,11 +53,11 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 浮腰     | Uki-goshi           | *Floating hip* | `1895------------` |
 | 大腰     | O-goshi             | *Major hip*    | `1895------------` |
 | 腰車     | Koshi-guruma        | *Hip wheel*    | `1895------------` |
+| 払腰     | Harai-goshi         | *Sweeping hip*          | `1895------------` |
+| 跳腰     | Hane-goshi          | *Spring hip*            | `1895------------` |
+| 釣腰     | Tsuri-goshi         | *Lifting hip*           | `1895------------` |
 | 釣込腰   | Tsurikomi-goshi     | Lifting and pulling hip          | `  1911----------` (?) |
 | 袖釣込腰 | Sode-tsurikomi-goshi | *Sleeve lifting and pulling hip* | `          1997--` |
-| 払腰     | Harai-goshi         | *Sweeping hip*          | `1895------------` |
-| 釣腰     | Tsuri-goshi         | *Lifting hip*           | `1895------------` |
-| 跳腰     | Hane-goshi          | *Spring hip*            | `1895------------` |
 | 移腰     | Utsuri-goshi        | *Hip shift <br> (counter to koshi waza)* | `1895------------` |
 | 後腰     | Ushiro-goshi        | *Rear hip <br> (counter to koshi waza)*  | `1895------------` |
 | 抱上     | 🚫 ~~Daki-age~~     | *Hugging high lift*                     | `          1997--` |
@@ -67,17 +67,17 @@ Below is a list of Judo techniques along with their common English names. The 10
 | Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:  | ---: | ---:        | --- |
 |  出足払 | De-ashi-barai         |  | `1895------------` |
+|  送足払 | Okuri-ashi-barai     |  | `1895------------` |
 |    膝車 | Hiza-guruma           |  | `1895------------` |
 | 支釣込足 | Sasae-tsurikomi-ashi |  | `1895------------` |
+| 払釣込足 | Harai-tsurikomi-ashi |  | `1895------------` |
 |  大外刈 | O-soto-gari          |  | `1895------------` |
 |  大内刈 | O-uchi-gari          |  | `   1920---------` |
 |  小外刈 | Ko-soto-gari         |  | `1895------------` |
 |  小内刈 | Ko-uchi-gari         |  | `1895------------` |
-|  送足払 | Okuri-ashi-barai     |  | `1895------------` |
-|    内股 | Uchi-mata            |  | `1895------------` |
 |  小外掛 | Ko-soto-gake         |  | `   1920---------` |
+|    内股 | Uchi-mata            |  | `1895------------` |
 |    足車 | Ashi-guruma          |  | `1895------------` |
-| 払釣込足 | Harai-tsurikomi-ashi |  | `1895------------` |
 |    大車 | O-guruma              |  | `   1920---------` |
 |  大外車 | O-soto-guruma         |  | `1895------------` |
 |  大外落 | O-soto-otoshi         |  | `1895------------` |
