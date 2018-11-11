@@ -97,7 +97,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:  | ---: | ---:        | --- |
 |  裏投 | Ura-nage          | *Rear throw*         | `1895------------` |
-|  巴投 | Tomoe-nage        | *'Circle' throw*  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tomoe_2_right.png/900px-Tomoe_2_right.png" height="12">   | `1895------------` |
+|  巴投 | Tomoe-nage        | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tomoe_2_right.png/900px-Tomoe_2_right.png" height="12"> *'Circle' throw*     | `1895------------` |
 |  隅返 | Sumi-gaeshi       | *Corner reversal*    | `1895------------` |
 |  引込返 | Hikikomi-gaeshi | *Pulling in reversal* | `1895------------` |
 |  俵返 | Tawara-gaeshi     | *Rice bag reversal*   | `1895------------` |
@@ -114,16 +114,16 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 横車 | Yoko-guruma     | *Side wheel*       | `1895------------` |
 | 横分 | Yoko-wakare     | *Side separation*  | `1895------------` |
 | 抱分 | Daki-wakare     | *High separation*  | `1895------------` |
-| 外巻込 | Soto-makikomi          | *Outer wraparound*          | `1895------------` |
-| 内巻込 | Uchi-makikomi          | *Inner wraparound*          | `1895------------` |
-| 跳巻込 | Hane-makikomi          | *Hane-goshi wraparound*     | `   1920---------` |
-| 払巻込    | Harai-makikomi      | *Harai-goshi wraparound*    | `          1997--` |
-| 大外巻込  | O-soto-makikomi     | *Osoto-gari wraparound*     | `          1997--` |
-| 内股巻込  | Uchi-mata-makikomi  | *Uchi-mata wraparound*      | `          1997--` |
-| 小内巻込  | Ko-uchi-makikomi    | *Kouchi-gari wraparound*    | `            2017` |
-| ~~蟹挟~~  | 🚫 ~~Kani-basami~~ | ~~*Crab pinch*~~            | `          1997--` |
+| 外巻込     | Soto-makikomi       | *Outer wraparound*          | `1895------------` |
+| 内巻込     | Uchi-makikomi       | *Inner wraparound*          | `1895------------` |
+| 跳巻込     | Hane-makikomi       | *Hane-goshi wraparound*     | `   1920---------` |
+| 払巻込     | Harai-makikomi      | *Harai-goshi wraparound*    | `          1997--` |
+| 大外巻込   | O-soto-makikomi     | *Osoto-gari wraparound*     | `          1997--` |
+| 内股巻込   | Uchi-mata-makikomi  | *Uchi-mata wraparound*      | `          1997--` |
+| 小内巻込   | Ko-uchi-makikomi    | *Kouchi-gari wraparound*    | `            2017` |
+| ~~蟹挟~~   | 🚫 ~~Kani-basami~~ | ~~*Crab pinch*~~            | `          1997--` |
 | ~~河津掛~~ | 🚫 ~~Kawazu-gake~~ | ~~*One leg entanglement*~~ | `          1997--` |
-| ~~`彈車`~~ | ~~`Tama-guruma`~~  | ~~`Jade wheel`~~            ||
+| `彈車`     | `Tama-guruma`      | ~~`Jade wheel`~~            ||
 | `腕返`     | `Ude-gaeshi`       | *`Arm reversal`*            ||
 
 ---
@@ -134,16 +134,16 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 | Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:  | ---: | ---:        | --- |
-| 袈裟固     | Kesa-gatame        | *Scarf hold* |
-| 崩袈裟固   | Kuzure-kesa-gatame | *Broken kesagatame* |
-| 後袈裟固   | Ushiro-kesa-gatame | *Rear kesagatame* |
-| 肩固       | Kata-gatame        | *Shoulder hold*                | 
-| 上四方固   | Kami-shiho-gatame   | *Upper four-quarters hold*    |
-| 崩上四方固 | Kuzure-kami-shiho-gatame | *Broken kamishihogatame* | 
-| 横四方固   | Yoko-shiho-gatame   | *Side four-quarters hold*     |
-| 縦四方固   | Tate-shiho-gatame   | *Vertical four-quarters hold* |
+| 袈裟固     | Kesa-gatame        | *Scarf hold*                    |
+| 崩袈裟固   | Kuzure-kesa-gatame | *Broken kesagatame*             |
+| 後袈裟固   | Ushiro-kesa-gatame | *Rear kesagatame*               |
+| 肩固       | Kata-gatame        | *Shoulder hold*                 | 
+| 上四方固   | Kami-shiho-gatame   | *Upper four-quarters hold*     |
+| 崩上四方固 | Kuzure-kami-shiho-gatame | *Broken kamishihogatame*   | 
+| 横四方固   | Yoko-shiho-gatame   | *Side four-quarters hold*       |
+| 縦四方固   | Tate-shiho-gatame   | *Vertical four-quarters hold*   |
 | 浮固       | Uki-gatame          | *Floating hold (knee on belly)* |
-| 裏固       | Ura-gatame          | *Back hold* | `-------------2014-` |
+| 裏固       | Ura-gatame          | *Back hold*                     | `-------------2014-` |
 
 ### 絞 技（Shime-waza）
 
