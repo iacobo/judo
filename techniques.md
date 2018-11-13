@@ -30,10 +30,10 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 帯取返     | Obi-tori-gaeshi     | *Belt take reversal*      | `            2017` |
 | 小内返     | Ko-uchi-gaeshi      | *Kouchi reverse <br> (counter to kouchi-gari)* | `          1997--` |
 | 内股すかし | Uchi-mata-sukashi   | *Uchi-mata void <br> (counter to uchi-mata)* | `          1997--` |
-| 朽木倒     | Kuchiki-taoshi      | *~~Single leg takedown~~* | `          1997--` |
-| 踵返       | Kibisu-gaeshi       | *~~One hand reversal~~*   | `          1997--` |
+| 朽木倒     | Kuchiki-taoshi      | *~~Single leg takedown~~* | `         1982---` |
+| 踵返       | Kibisu-gaeshi       | *~~One hand reversal~~*   | `         1982---` |
 | 肩車       | Kata-guruma         | *~~Shoulder wheel~~*      | `1895------------` |
-| 双手刈     | Morote-gari         | *~~Two hand reap~~*       | `          1997--` |
+| 双手刈     | Morote-gari         | *~~Two hand reap~~*       | `         1982---` |
 | `手車`     | `Te-guruma`         | *~~`Hand wheel`~~*        | |
 
 ### 腰 技（Koshi-waza）
@@ -50,7 +50,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 袖釣込腰 | Sode-tsurikomi-goshi | *Sleeve lifting and pulling hip*        | `          1997--` |
 | 移腰     | Utsuri-goshi        | *Hip shift <br> (counter to koshi-waza)* | `1895------------` |
 | 後腰     | Ushiro-goshi        | *Rear hip <br> (counter to koshi-waza)*  | `1895------------` |
-| ~~抱上~~ | 🚫 ~~Daki-age~~     | ~~*Hugging high lift*~~                 | `          1997--` |
+| ~~抱上~~ | 🚫 ~~Daki-age~~     | ~~*Hugging high lift*~~                 | `         1982---` |
 | `飛腰`   | `Tobi goshi`         | `Surfing hip throw` <br> `(counter to koshi-waza)`    | |
 | `後車`   | `Ushiro Guruma`      | `Rear wheel`                           | |
 
@@ -73,12 +73,12 @@ Below is a list of Judo techniques along with their common English names. The 10
 |    大車 | O-guruma              | *Big wheel*       | `   1920---------` |
 |  大外車 | O-soto-guruma         | *Big outer wheel* | `1895------------` |
 |  大外落 | O-soto-otoshi         | *Big outer drop*  | `1895------------` |
-|  大外返 | O-soto-gaeshi         | *Osoto reversal <br> (counter to osoto-gari)* | `          1997--` |
-|  大内返 | O-uchi-gaeshi         | *Ouchi reversal <br> (counter to ouchi-gari)* | `          1997--` |
+|  大外返 | O-soto-gaeshi         | *Osoto reversal <br> (counter to osoto-gari)* | `         1982---` |
+|  大内返 | O-uchi-gaeshi         | *Ouchi reversal <br> (counter to ouchi-gari)* | `         1982---` |
 |    燕返 | Tsubame-gaeshi        | *Swallow reversal <br> (counter to ashi-waza)*      | `         1982---` |
-|  跳腰返 | Hane-goshi-gaeshi     | *Hane-goshi reversal <br> (counter to hane-goshi)*   | `          1997--` |
-|  払腰返 | Harai-goshi-gaeshi    | *Harai-goshi reversal <br> (counter to harai-goshi)* | `          1997--` |
-|  内股返 | Uchi-mata-gaeshi      | *Uchi-mata reversal <br> (counter to uchi-mata)*     | `          1997--` |
+|  跳腰返 | Hane-goshi-gaeshi     | *Hane-goshi reversal <br> (counter to hane-goshi)*   | `         1982---` |
+|  払腰返 | Harai-goshi-gaeshi    | *Harai-goshi reversal <br> (counter to harai-goshi)* | `         1982---` |
+|  内股返 | Uchi-mata-gaeshi      | *Uchi-mata reversal <br> (counter to uchi-mata)*     | `         1982---` |
 
 ### 真捨身技（Ma-sutemi-waza）
 
@@ -105,12 +105,12 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 外巻込     | Soto-makikomi       | *Outer wraparound*          | `1895------------` |
 | 内巻込     | Uchi-makikomi       | *Inner wraparound*          | `1895------------` |
 | 跳巻込     | Hane-makikomi       | *Hane-goshi wraparound*     | `   1920---------` |
-| 払巻込     | Harai-makikomi      | *Harai-goshi wraparound*    | `          1997--` |
-| 内股巻込   | Uchi-mata-makikomi  | *Uchi-mata wraparound*      | `          1997--` |
-| 大外巻込   | O-soto-makikomi     | *Osoto-gari wraparound*     | `          1997--` |
+| 払巻込     | Harai-makikomi      | *Harai-goshi wraparound*    | `         1982---` |
+| 内股巻込   | Uchi-mata-makikomi  | *Uchi-mata wraparound*      | `         1982---` |
+| 大外巻込   | O-soto-makikomi     | *Osoto-gari wraparound*     | `         1982---` |
 | 小内巻込   | Ko-uchi-makikomi    | *Kouchi-gari wraparound*    | `            2017` |
-| ~~蟹挟~~   | 🚫 ~~Kani-basami~~ | ~~*Crab pinch*~~            | `          1997--` |
-| ~~河津掛~~ | 🚫 ~~Kawazu-gake~~ | ~~*One leg entanglement*~~ | `          1997--` |
+| ~~蟹挟~~   | 🚫 ~~Kani-basami~~ | ~~*Crab pinch*~~            | `         1982---` |
+| ~~河津掛~~ | 🚫 ~~Kawazu-gake~~ | ~~*One leg entanglement*~~  | `         1982---` |
 | `彈車`     | `Tama-guruma`      | ~~`Jade wheel`~~            ||
 | `腕返`     | `Ude-gaeshi`       | *`Arm reversal`*            ||
 
