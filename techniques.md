@@ -6,7 +6,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 |---|
 |Kodokan technique, c. 2018 |
 |`Non-kodokan technique` |
-| ~~IJF banned technique~~, leg grab |
+| † Involves leg grab, banned in IJF competition |
 |🚫 ~~Banned technique, **dangerous**~~ |
 
 ## 投技 (Nage-waza)
@@ -19,7 +19,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | `双手襟背負投`    | `[Kata/Morote]-eri-seoi-nage`| *`Two hand collar seoi nage`*|                |
 | 一本背負投       | Ippon-seoi-nage     | *Single shoulder throw*   | `          1997--` |
 | 裏投             | Ura-nage            | *Rear throw*              | `1895------------` |
-| 掬投 <br> / `手車` | Sukui-nage <br> / `Te-guruma` | *~~Scoop throw~~*  <br> / *~~`Hand wheel`~~* | `   1920---------` |
+| 掬投 <br> / `手車` | Sukui-nage <br> / `Te-guruma` | † *Scoop throw*  <br> / *`Hand wheel`* | `   1920---------` |
 | 背負落           | Seoi-otoshi         | *Shoulder drop*           | `1895------------` |
 | `両膝背負落`      | `Ryo-hiza-seoi-otoshi`| *`Both knees seoi-otoshi`*   |                |
 | 体落             | Tai-otoshi          | *Body drop*               | `1895------------` |
@@ -30,10 +30,10 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 帯取返           | Obi-tori-gaeshi     | *Belt take reversal*      | `            2017` |
 | 小内返           | Ko-uchi-gaeshi      | *Kouchi reverse <br> (counter to kouchi-gari)* | `          1997--` |
 | 内股すかし       | Uchi-mata-sukashi   | *Uchi-mata void <br> (counter to uchi-mata)* | `          1997--` |
-| 朽木倒           | Kuchiki-taoshi      | *~~Single leg takedown~~* | `         1982---` |
-| 踵返             | Kibisu-gaeshi       | *~~One hand reversal~~*   | `         1982---` |
-| 肩車             | Kata-guruma         | *~~Shoulder wheel~~*      | `1895------------` |
-| 双手刈           | Morote-gari         | *~~Two hand reap~~*       | `         1982---` |
+| 朽木倒           | Kuchiki-taoshi      | † *Single leg takedown* | `         1982---` |
+| 踵返             | Kibisu-gaeshi       | † *One hand reversal*   | `         1982---` |
+| 肩車             | Kata-guruma         | † *Shoulder wheel*      | `1895------------` |
+| 双手刈           | Morote-gari         | † *Two hand reap*       | `         1982---` |
 
 ### 腰 技（Koshi-waza）
 
@@ -110,7 +110,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 小内巻込   | Ko-uchi-makikomi    | *Kouchi-gari wraparound*    | `            2017` |
 | ~~蟹挟~~   | 🚫 ~~Kani-basami~~ | ~~*Crab pinch*~~            | `         1982---` |
 | ~~河津掛~~ | 🚫 ~~Kawazu-gake~~ | ~~*One leg entanglement*~~  | `         1982---` |
-| `彈車`     | `Tama-guruma`      | ~~`Jade wheel`~~            ||
+| `彈車`     | `Tama-guruma`      | † *`Jade wheel`*            ||
 | `腕返`     | `Ude-gaeshi`       | *`Arm reversal`*            ||
 
 ---
