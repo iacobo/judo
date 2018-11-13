@@ -16,25 +16,24 @@ Below is a list of Judo techniques along with their common English names. The 10
 | Kanji  | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:   | ---: | ---:        | --- |
 | [双手]背負投     | [Morote] Seoi-nage           | *[Two hand] Shoulder throw*          | `1895------------` |
-| 一本背負投 | Ippon-seoi-nage     | *Single shoulder throw*   | `          1997--` |
-| `双手襟背負投`        | `Morote-eri-seoi-nage`| *`Two hand collar seoi nage`*|                |
-| 裏投       | Ura-nage            | *Rear throw*              | `1895------------` |
-| 掬投       | Sukui-nage          | *~~Scoop throw~~*         | `   1920---------` |
-| 背負落     | Seoi-otoshi         | *Shoulder drop*           | `1895------------` |
-| `両膝背負落` | `Ryo-hiza-seoi-otoshi`| *`Both knees seoi-otoshi`*|                |
-| 体落       | Tai-otoshi          | *Body drop*               | `1895------------` |
-| 帯落       | Obi-otoshi          | *Belt drop*               | `1895------------` |
-| 浮落       | Uki-otoshi          | *Floating drop*           | `1895------------` |
-| 隅落       | Sumi-otoshi         | *Corner drop*             | `   1920---------` |
-| 山嵐       | Yama-arashi         | *Mountain storm*          | `1895------------` |
-| 帯取返     | Obi-tori-gaeshi     | *Belt take reversal*      | `            2017` |
-| 小内返     | Ko-uchi-gaeshi      | *Kouchi reverse <br> (counter to kouchi-gari)* | `          1997--` |
-| 内股すかし | Uchi-mata-sukashi   | *Uchi-mata void <br> (counter to uchi-mata)* | `          1997--` |
-| 朽木倒     | Kuchiki-taoshi      | *~~Single leg takedown~~* | `         1982---` |
-| 踵返       | Kibisu-gaeshi       | *~~One hand reversal~~*   | `         1982---` |
-| 肩車       | Kata-guruma         | *~~Shoulder wheel~~*      | `1895------------` |
-| 双手刈     | Morote-gari         | *~~Two hand reap~~*       | `         1982---` |
-| `手車`     | `Te-guruma`         | *~~`Hand wheel`~~*        | |
+| `双手襟背負投`    | `[Kata/Morote]-eri-seoi-nage`| *`Two hand collar seoi nage`*|                |
+| 一本背負投       | Ippon-seoi-nage     | *Single shoulder throw*   | `          1997--` |
+| 裏投             | Ura-nage            | *Rear throw*              | `1895------------` |
+| 掬投 <br> / `手車` | Sukui-nage <br> / `Te-guruma` | *~~Scoop throw~~*  <br> / *~~`Hand wheel`~~* | `   1920---------` |
+| 背負落           | Seoi-otoshi         | *Shoulder drop*           | `1895------------` |
+| `両膝背負落`      | `Ryo-hiza-seoi-otoshi`| *`Both knees seoi-otoshi`*   |                |
+| 体落             | Tai-otoshi          | *Body drop*               | `1895------------` |
+| 帯落             | Obi-otoshi          | *Belt drop*               | `1895------------` |
+| 浮落             | Uki-otoshi          | *Floating drop*           | `1895------------` |
+| 隅落             | Sumi-otoshi         | *Corner drop*             | `   1920---------` |
+| 山嵐             | Yama-arashi         | *Mountain storm*          | `1895------------` |
+| 帯取返           | Obi-tori-gaeshi     | *Belt take reversal*      | `            2017` |
+| 小内返           | Ko-uchi-gaeshi      | *Kouchi reverse <br> (counter to kouchi-gari)* | `          1997--` |
+| 内股すかし       | Uchi-mata-sukashi   | *Uchi-mata void <br> (counter to uchi-mata)* | `          1997--` |
+| 朽木倒           | Kuchiki-taoshi      | *~~Single leg takedown~~* | `         1982---` |
+| 踵返             | Kibisu-gaeshi       | *~~One hand reversal~~*   | `         1982---` |
+| 肩車             | Kata-guruma         | *~~Shoulder wheel~~*      | `1895------------` |
+| 双手刈           | Morote-gari         | *~~Two hand reap~~*       | `         1982---` |
 
 ### 腰 技（Koshi-waza）
 
