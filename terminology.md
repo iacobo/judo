@@ -2,21 +2,37 @@
 
 Words with rendaku variants in common Judo terms are displayed below thus `-rendaku`.
 
-| Kanji | Romaji | Translation |
-|---:   | ---:   | ---:        |
-| 大 | O      | Big, major               | 
-| 小 | Ko     | Small, minor             | 
-| 外 | Soto   | Outer, outside           | 
-| 内 | Uchi   | Inner, inside            | 
-| 前 | Mae    | Front                   | 
-| 横 | Yoko   | Side                     | 
-| 後 | Ushiro | Rear / behind / backward | 
-| 崩 | Kuzure | Broken                   | 
+## Size, direction etc
 
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
-| 襟 | Eri  | Collar / lapel     | 
-| 袖 | Sode | Sleeve / arm, wing | 
+| 大   | O      | Big, major               | 
+| 小   | Ko     | Small, minor             | 
+| 外   | Soto   | Outer, outside           | 
+| 内   | Uchi   | Inner, inside            | 
+| 前   | Mae    | Front                    | 
+| 横   | Yoko   | Side                     | 
+| 後   | Ushiro | Rear / behind / backward | 
+| 四方 | Shihō  | In all directions        | 
+| 上   | Kami   | Above, top, upper        |
+| 縦   | Tate   | Length, height           |
+| 崩   | Kuzure | Broken                   | 
+| 十字 | Jūji   | Cross                    | 
+| 片   | Kata   | Partial / Single (of a pair) |
+
+## Clothes etc
+
+| Kanji | Romaji | Translation |
+|---:   | ---:   | ---:        |
+| 襟                  | Eri       | Collar / lapel     | 
+| 袖                  | Sode      | Sleeve / arm, wing | 
+| 柔道着 <br> / 柔道衣 | Judogi    | Judo uniform        |
+| 稽古着 <br> / 稽古衣 | [Keiko]gi | Martial arts uniform (Lit. *"Training clothes"* |
+| 草履                | Zōri  | Trad. Japanese sandals |
+| 帯                  | Obi   | Belt |
+| 道場                | Dōjō      | [Training/learning hall](https://en.wikipedia.org/wiki/Dojo#In_martial_arts) |
+
+## Body
 
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
@@ -29,56 +45,72 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 肘   | Hiji | Elbow      | 
 | 小手 | Kote | Wrist / forearm | 
 | 手   | Te   | Hand / arm | 
+| 腹 <br> 肚  | Hara | Stomach |
 | 腰   | Koshi <br> `-goshi` | Hip / lower back| 
 | 脚   | Ashi | Leg        | 
 | 股   | Mata | Thigh      | 
 | 膝   | Hiza | Knee       | 
 | 足   | Ashi | Foot / leg |
 
+## Positions
+
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
-| 技     | Waza                | Technique | 
-| 立ち   | Tachi <br> `-dachi` | Stance    | 
-| 受け身 | Ukemi               | Breakfall | 
-| 投     | Nage               | Throw      | 
+| 技     | Waza                | Technique     | 
+| 立ち   | Tachi <br> `-dachi` | Stance        | 
+| 正座 <br> 正坐 | Seiza       | [Trad. Japanese kneeling posture](https://en.wikipedia.org/wiki/Seiza#Use_in_traditional_arts) |
+| 受け身 | Ukemi               | Breakfall     | 
+| 投     | Nage               | Throw          | 
 | 型     | Kata               | Pattern, model | 
+| 組む   | Kumi               | Grip fighting (Lit. *"To grapple"* |
+|        | Rei                | Bow            |
+
+## Osaekomi-waza
 
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
-| 固   | Katame <br> `-gatame` | Hold| 
-| 抑   | Osae[ru]              | Hold down | 
-| 関節 | Kansetsu              | Lock| 
-| 絞   | Shime <br> `-jime`    | Choke| 
-| 緘   | Karami <br> `-garami` | Entanglement| 
+| 固   | Katame <br> `-gatame` | Hold         | 
+| 抑   | Osae[ru]              | Hold down    | 
+| 関節 | Kansetsu              | Lock         | 
+| 絞   | Shime <br> `-jime`    | Choke        | 
+| 緘   | Karami <br> `-garami` | Entanglement | 
+| 挫   | Hishigi               | Crush        |
+
+## Atemi etc
 
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
-| 突き | Tsuki | Punch| 
-| 蹴り | Keri <br> `-geri` | Kick| 
-| 刈   | Kari <br> `-gari` | Reap| 
-| 掛   | Kake <br> `-gake` | Hook, suspend| 
+| 突き | Tsuki <br> `-zuki` | Punch | 
+| 蹴り | Keri <br> `-geri`  | Kick | 
+| 刈   | Kari <br> `-gari`  | Reap | 
+| 掛   | Kake <br> `-gake`  | Hook, suspend | 
+| 端   | Ha                 | Edge |
+
+## Movement
 
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
-| 払 | Harai <br> `-barai` | Sweep / Clear out| 
-| 落 | Otoshi | Drop| 
-| 浮 | Uki    | Floating| 
-| 釣 | Tsuri  | Lifting| 
-| 込 | Komi   | Modifier to verb/noun, [normally means](http://judo.forumsmotion.com/t2114-the-term-komi) *"to full/a greater extent"*| 
-| 返し        | Kaeshi <br> `-gaeshi` | Returning | 
-
-| Kanji | Romaji | Translation |
-|---:   | ---:   | ---:        |
+| 払   | Harai <br> `-barai`   | Sweep / Clear out | 
+| 落   | Otoshi                | Drop              | 
+| 浮   | Uki                   | Floating          | 
+| 釣   | Tsuri                 | Lifting           | 
+| 返し | Kaeshi <br> `-gaeshi` | Returning          | 
 | 車   | Kuruma <br> `-guruma` | Wheel                        | 
-| 十字 | Jūji                  | Cross                        | 
-| 片   | Kata                  | Partial / Single (of a pair) |
+| 回り | Mawari                | Rotation, circulation        |
+| 込   | Komi                  | Modifier to verb/noun, [normally means](http://judo.forumsmotion.com/t2114-the-term-komi) *"to full/a greater extent"*| 
+
+## Persons
 
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
-| 取り | Tori   | Demonstrator of technique <br> *"To take/choose"* | 
-| 受け | Uke    | Demonstratee of technique <br> *"To receive"*| 
+| 取り | Tori   | Active partner <br> *"To take/choose"* | 
+| 受け | Uke    | Passive partner <br> *"To receive"*     | 
+| 先生 | Sensei | [Teacher](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) |
+
+## Commands
+
 | 始め | Hajime | Beginning/start | 
 | 止め | Yame   | Stop!           | 
-| よし | Yoshi  | "To continue"?  |
+| よし | Yoshi  | "To continue" ? |
 | 待て | Mate   | Wait!           | 
 | 押忍 | Osu    | 
