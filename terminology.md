@@ -98,7 +98,7 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 返し | Kaeshi <br> `-gaeshi` | Returning          | 
 | 車   | Kuruma <br> `-guruma` | Wheel                        | 
 | 回り | Mawari                | Rotation, circulation        |
-| 込   | Komi                  | Modifier to verb/noun, [normally means](http://judo.forumsmotion.com/t2114-the-term-komi) *"to full/a greater extent"*| 
+| 込   | Komi                  | Modifier to verb/noun, <br> [normally means](http://judo.forumsmotion.com/t2114-the-term-komi) *"to full/a greater extent"*| 
 
 ## Persons
 
@@ -110,8 +110,10 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 
 ## Commands
 
+| Kanji | Romaji | Translation |
+|---:   | ---:   | ---:        |
 | 始め | Hajime | Beginning/start | 
 | 止め | Yame   | Stop!           | 
-| よし | Yoshi  | "To continue" ? |
+| よし | Yoshi  | "To continue"   |
 | 待て | Mate   | Wait!           | 
 | 押忍 | Osu    |                 |
