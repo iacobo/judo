@@ -18,7 +18,16 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 縦   | Tate   | Length, height           |
 | 崩   | Kuzure | Broken                   | 
 | 十字 | Jūji   | Cross                    | 
+| 三角 | Sankaku | Triangle                |
+
+## Numerals, ordinals etc
+
+| Kanji | Romaji | Translation |
+|---:   | ---:   | ---:        |
+| 一本 | Ippon  | One           |
 | 片   | Kata   | Partial / Single (of a pair) |
+| 諸   | Moro   | Both / Many, various |
+| 両   | Ryo    | Both / Two           |
 
 ## Clothes etc
 
@@ -28,8 +37,8 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 袖                  | Sode      | Sleeve / arm, wing | 
 | 柔道着 <br> / 柔道衣 | Judogi    | Judo uniform        |
 | 稽古着 <br> / 稽古衣 | [Keiko]gi | Martial arts uniform (Lit. *"Training clothes"*) |
-| 草履                | Zōri  | Trad. Japanese sandals |
-| 帯                  | Obi   | Belt |
+| 草履                | Zōri      | Trad. Japanese sandals |
+| 帯                  | Obi       | Belt                   |
 | 道場                | Dōjō      | [Training/learning hall](https://en.wikipedia.org/wiki/Dojo#In_martial_arts) |
 
 ## Body
@@ -96,8 +105,8 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 浮   | Uki                   | Floating          | 
 | 釣   | Tsuri                 | Lifting           | 
 | 返し | Kaeshi <br> `-gaeshi` | Returning          | 
-| 車   | Kuruma <br> `-guruma` | Wheel                        | 
-| 回り | Mawari                | Rotation, circulation        |
+| 車   | Kuruma <br> `-guruma` | Wheel                | 
+| 回り | Mawari                | Rotation, circulation |
 | 込   | Komi                  | Modifier to verb/noun, <br> [normally means](http://judo.forumsmotion.com/t2114-the-term-komi) *"to full/a greater extent"*| 
 
 ## Persons
@@ -108,7 +117,7 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 受け | Uke    | Passive partner <br> *"To receive"*     | 
 | 先生 | Sensei | [Teacher](https://en.wikipedia.org/wiki/Japanese_honorifics#Martial_arts_titles) |
 
-## Commands
+## Commands, Competition signals etc
 
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
@@ -117,3 +126,10 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | よし | Yoshi  | "To continue"   |
 | 待て | Mate   | Wait!           | 
 | 押忍 | Osu    |                 |
+| 解けた   | Toketa      | Hold broken <br> (Lit. *"Untied/undone"*)       |
+| 指導     | Shido       | Penalty <br> (Lit. *"Guidance; instruction"*)   |
+| 反則負け | Hansokumake | Disqualification <br> (Lit. *"Foul-play loss"*) |
+| 一本   | Ippon   | One full point |
+| 技あり | Waza-ari | One half point |
+| ~~有効~~   | ~~Yuko~~     | Smaller point, removed in 2017 from IJF rules |
+| ~~効果~~   | ~~Koka~~     | Smaller point, removed in 2016 from IJF rules |
