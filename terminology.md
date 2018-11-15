@@ -36,7 +36,7 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 襟                  | Eri       | Collar / lapel     | 
 | 袖                  | Sode      | Sleeve / arm, wing | 
 | 柔道着 <br> / 柔道衣 | Judogi    | Judo uniform        |
-| 稽古着 <br> / 稽古衣 | [Keiko]gi | Martial arts uniform (Lit. *"Training clothes"*) |
+| 稽古着 <br> / 稽古衣 | [Keiko]gi | Martial arts uniform <br> (Lit. *"Training clothes"*) |
 | 草履                | Zōri      | Trad. Japanese sandals |
 | 帯                  | Obi       | Belt                   |
 | 道場                | Dōjō      | [Training/learning hall](https://en.wikipedia.org/wiki/Dojo#In_martial_arts) |
@@ -47,7 +47,7 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 |---:   | ---:   | ---:        |
 | 體   | Tai  | Body       | 
 | 背   | Se   | Back       | 
-| 背負 | Seo  | To carry on the back, to shoulder | 
+| 背負 | Seo  | To carry on the back / to shoulder | 
 | 肩   | Kata | Shoulder   | 
 | 腕   | Ude  | Arm        | 
 | 腋   | Waki | Armpit     | 
@@ -72,7 +72,7 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 受け身 | Ukemi               | Breakfall     | 
 | 投     | Nage               | Throw          | 
 | 型     | Kata               | Pattern, model | 
-| 組む   | Kumi               | Grip fighting (Lit. *"To grapple"* |
+| 組む   | Kumi               | Grip fighting <br> (Lit. *"To grapple"*) |
 | 礼     | Rei                | Bow            |
 
 ## Osaekomi-waza
