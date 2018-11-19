@@ -125,7 +125,7 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 止め | Yame   | Stop!           | 
 | よし | Yoshi  | "To continue"   |
 | 待て | Mate   | Wait!           | 
-| 押忍 | Osu    |                 |
+| 押忍 | Osu    | [](https://martialarts.stackexchange.com/questions/7928/what-is-the-etymology-and-meaning-of-oss) |
 | 解けた   | Toketa      | Hold broken <br> (Lit. *"Untied/undone"*)       |
 | 指導     | Shido       | Penalty <br> (Lit. *"Guidance; instruction"*)   |
 | 反則負け | Hansokumake | Disqualification <br> (Lit. *"Foul-play loss"*) |
