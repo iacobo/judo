@@ -1,3 +1,5 @@
+# Judo terminology
+
 **Note:** In Japanese, some unvoiced consonants *(sh-, ch-, h-, k-, s- ts-)* undergo voicing when they become prefixed by another word *(-zh-, -j-, -b-, -g-, -z-, -z-)*. This is why, for example, *koshi* is pronounced with a 'k' in *koshi-guruma* but with a 'g' in *o-goshi* etc. This phenomenon is known as [*rendaku*](https://en.wikipedia.org/wiki/Rendaku) (連濁).
 
 Words with rendaku variants in common Judo terms are displayed below thus `-rendaku`.
