@@ -49,6 +49,7 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
 | 體   | Tai  | Body       | 
+| 首<br> / 頸 | Kubi | Neck       |
 | 背   | Se   | Back       | 
 | 背負 | Seo  | To carry on the back | 
 | 肩   | Kata | Shoulder   | 
