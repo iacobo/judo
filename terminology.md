@@ -14,22 +14,23 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 内   | Uchi   | Inner, inside            | 
 | 前   | Mae    | Front                    | 
 | 横   | Yoko   | Side                     | 
-| 後   | Ushiro | Rear / behind / backward | 
+| 後   | Ushiro | Rear, behind, backward | 
 | 四方 | Shihō  | In all directions        | 
 | 上   | Kami   | Above, top, upper        |
 | 縦   | Tate   | Length, height           |
 | 崩   | Kuzure | Broken                   | 
-| 十字 | Jūji   | Cross                    | 
-| 三角 | Sankaku | Triangle                |
 
-## Numerals, ordinals etc
+## Number, shape etc
 
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
-| 一本 | Ippon  | One           |
+| 一本 | Ippon  | One                          |
 | 片   | Kata   | Partial / Single (of a pair) |
-| 諸   | Moro   | Both / Many, various |
-| 両   | Ryo    | Both / Two           |
+| 双   | Moro   | Pair                         |
+| 諸   | Moro   | Both / Many / Various        |
+| 両   | Ryo    | Both / Two                   |
+| 三角 | Sankaku | Triangle                    |
+| 十字 | Jūji    | Cross                       | 
 
 ## Clothes etc
 
@@ -37,8 +38,8 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 |---:   | ---:   | ---:        |
 | 襟                  | Eri       | Collar / lapel     | 
 | 袖                  | Sode      | Sleeve / arm, wing | 
-| 柔道着<br> / 柔道衣 | Judogi    | Judo uniform        |
-| 稽古着<br> / 稽古衣 | [Keiko]gi | Martial arts uniform <br> (Lit. *"Training clothes"*) |
+| 柔道着<br> / 柔道衣  | Judogi    | Judo uniform        |
+| 稽古着<br> / 稽古衣  | [Keiko]gi | Martial arts uniform <br> (Lit. *"Training clothes"*) |
 | 草履                | Zōri      | Trad. Japanese sandals |
 | 帯                  | Obi       | Belt                   |
 | 道場                | Dōjō      | [Training/learning hall](https://en.wikipedia.org/wiki/Dojo#In_martial_arts) |
@@ -49,33 +50,33 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 |---:   | ---:   | ---:        |
 | 體   | Tai  | Body       | 
 | 背   | Se   | Back       | 
-| 背負 | Seo  | To carry on the back / to shoulder | 
+| 背負 | Seo  | To carry on the back | 
 | 肩   | Kata | Shoulder   | 
 | 腕   | Ude  | Arm        | 
 | 腋   | Waki | Armpit     | 
 | 肘   | Hiji | Elbow      | 
 | 小手 | Kote | Wrist / forearm | 
-| 手   | Te   | Hand / arm  | 
+| 手   | Te   | Hand        | 
 | 胸   | Mune | Chest       |
+| 胴   | Do   | Body / torso / trunk |
 | 腹<br> / 肚  | Hara         | Stomach         |
 | 腰   | Koshi <br> `-goshi` | Hip / lower back| 
 | 脚   | Ashi | Leg        | 
 | 股   | Mata | Thigh      | 
 | 膝   | Hiza | Knee       | 
-| 足   | Ashi | Foot / leg |
+| 足   | Ashi | Foot       |
 
 ## Positions
 
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
 | 技     | Waza                | Technique     | 
+| 礼     | Rei                | Bow            |
 | 立ち   | Tachi <br> `-dachi` | Stance        | 
 | 正座<br> / 正坐 | Seiza       | [Trad. Japanese kneeling posture](https://en.wikipedia.org/wiki/Seiza#Use_in_traditional_arts) |
 | 受け身 | Ukemi               | Breakfall     | 
-| 投     | Nage               | Throw          | 
-| 型     | Kata               | Pattern, model | 
 | 組む   | Kumi               | Grip fighting <br> (Lit. *"To grapple"*) |
-| 礼     | Rei                | Bow            |
+| 型     | Kata               | Pattern, model | 
 
 ## Osaekomi-waza
 
@@ -94,20 +95,21 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 |---:   | ---:   | ---:        |
 | 突き | Tsuki <br> `-zuki` | Punch | 
 | 蹴り | Keri <br> `-geri`  | Kick | 
-| 刈   | Kari <br> `-gari`  | Reap | 
-| 掛   | Kake <br> `-gake`  | Hook, suspend | 
 | 端   | Ha                 | Edge |
 
 ## Movement
 
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
-| 払   | Harai <br> `-barai`   | Sweep / Clear out | 
+| 投   | Nage                  | Throw             | 
 | 落   | Otoshi                | Drop              | 
 | 浮   | Uki                   | Floating          | 
 | 釣   | Tsuri                 | Lifting           | 
-| 返し | Kaeshi <br> `-gaeshi` | Returning          | 
-| 車   | Kuruma <br> `-guruma` | Wheel                | 
+| 刈   | Kari <br> `-gari`     | Reap              | 
+| 掛   | Kake <br> `-gake`     | Hook, suspend     | 
+| 払   | Harai <br> `-barai`   | Sweep / Clear out | 
+| 返し | Kaeshi <br> `-gaeshi` | Returning         | 
+| 車   | Kuruma <br> `-guruma` | Wheel             | 
 | 回り | Mawari                | Rotation, circulation |
 | 込   | Komi                  | Modifier to verb/noun, <br> [normally means](http://judo.forumsmotion.com/t2114-the-term-komi) *"to full/a greater extent"*| 
 
@@ -127,7 +129,7 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 止め | Yame   | Stop!           | 
 | よし | Yoshi  | "To continue"   |
 | 待て | Mate   | Wait!           | 
-| 押忍 | Osu    | [](https://martialarts.stackexchange.com/questions/7928/what-is-the-etymology-and-meaning-of-oss) |
+| 押忍 | Osu    | [*Note of appreciation/respect/readiness etc before/after practise*](https://martialarts.stackexchange.com/questions/7928/what-is-the-etymology-and-meaning-of-oss) |
 | 解けた   | Toketa      | Hold broken <br> (Lit. *"Untied/undone"*)       |
 | 指導     | Shido       | Penalty <br> (Lit. *"Guidance; instruction"*)   |
 | 反則負け | Hansokumake | Disqualification <br> (Lit. *"Foul-play loss"*) |
