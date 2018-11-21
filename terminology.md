@@ -14,10 +14,13 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 内   | Uchi   | Inner, inside            | 
 | 前   | Mae    | Front                    | 
 | 横   | Yoko   | Side                     | 
-| 後   | Ushiro | Rear, behind, backward | 
+| 後   | Ushiro | Rear, behind, backward   | 
+| 裏   | Ura    | Back, behind             |
 | 四方 | Shihō  | In all directions        | 
 | 上   | Kami   | Above, top, upper        |
 | 縦   | Tate   | Length, height           |
+| 並   | Nami   | Ordinary                 |
+| 逆   | Gyaku  | Reverse, opposite        |
 | 崩   | Kuzure | Broken                   | 
 
 ## Number, shape etc
@@ -31,11 +34,13 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 両   | Ryo    | Both / Two                   |
 | 三角 | Sankaku | Triangle                    |
 | 十字 | Jūji    | Cross                       | 
+| 巴   | Tomoe   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tomoe_2_right.png/900px-Tomoe_2_right.png" height="12"> Japanese symmetriclal shape, similar to the Taijitu ☯ |
 
 ## Clothes etc
 
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
+| 袈裟                | Kesa      | Scarf <br> (Lit. [*"Kāṣāya"*](https://en.wikipedia.org/wiki/Kasaya_(clothing)), Buddhsit robes) |
 | 襟                  | Eri       | Collar / lapel     | 
 | 袖                  | Sode      | Sleeve / arm, wing | 
 | 柔道着<br> / 柔道衣  | Judogi    | Judo uniform        |
@@ -106,12 +111,15 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 落   | Otoshi                | Drop              | 
 | 浮   | Uki                   | Floating          | 
 | 釣   | Tsuri                 | Lifting           | 
+| 跳   | Hane                  | Spring            |
+| 支   | Sasae                 | Propping          |
 | 刈   | Kari <br> `-gari`     | Reap              | 
 | 掛   | Kake <br> `-gake`     | Hook, suspend     | 
 | 払   | Harai <br> `-barai`   | Sweep / Clear out | 
 | 返し | Kaeshi <br> `-gaeshi` | Returning         | 
 | 車   | Kuruma <br> `-guruma` | Wheel             | 
 | 回り | Mawari                | Rotation, circulation |
+| 巻   | Maki                  | Winding               |
 | 込   | Komi                  | Modifier to verb/noun, <br> [normally means](http://judo.forumsmotion.com/t2114-the-term-komi) *"to full/a greater extent"*| 
 
 ## Persons
