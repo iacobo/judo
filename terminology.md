@@ -83,6 +83,8 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 受け身 | Ukemi               | Breakfall     | 
 | 組む   | Kumi               | Grip fighting <br> (Lit. *"To grapple"*) |
 | 型     | Kata               | Pattern, model | 
+| 打ち込み | Uchikomi          | Repetitive drilling of technique |
+| 投込み   | Nagekomi          | Repetitive throwing              |
 
 ## Osaekomi-waza
 
