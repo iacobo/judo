@@ -94,6 +94,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
 | ---:  | ---: | ---:        | --- |
 | 浮技 | Uki-waza        | *Floating technique* | `1895------------` |
+|      |                 | *`Laats Dive In`* <br> (Sometimes called Kata-guruma variant)    |                    |
 | 谷落 | Tani-otoshi     | *Valley drop*        | `1895------------` |
 | 横落 | Yoko-otoshi     | *Side drop*          | `1895------------` |
 | 横掛 | Yoko-gake       | *Side hook*        | `1895------------` |
