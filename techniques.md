@@ -13,15 +13,13 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 ### 手 技（Te-waza） 
 
-| Kanji  | Name | Translation | Date added to Kodokan Gokyo no waza |
-| ---:   | ---: | ---:        | --- |
-| [双手]背負投     | [Morote] Seoi-nage           | *[Two hand] Shoulder throw*          | `1895------------` |
-| `双手襟背負投`    | `[Kata/Morote]-eri-seoi-nage`| *`[Single/Two hand] collar seoi nage`*|                |
+| Kanji  | Name | Translation | Date added to Kodokan | Alternate names/variations |
+| ---:   | ---: | ---:        | --- | ---: |
+| 背負投     | Seoi-nage           | *[Two hand] Shoulder throw*          | `1895------------` | Morote-seoi-nage <br>Eri-seoi-nage <br> Kata-eri-seoi-nage |
 | 一本背負投       | Ippon-seoi-nage     | *Single shoulder throw*   | `          1997--` |
 | 裏投             | Ura-nage            | *Rear throw*              | `1895------------` |
-| 掬投 <br> / `手車` | Sukui-nage <br> / `Te-guruma` | † *Scoop throw*  <br> / *`Hand wheel`* | `   1920---------` |
-| 背負落           | Seoi-otoshi         | *Shoulder drop*           | `1895------------` |
-| `両膝背負落`      | `Ryo-hiza-seoi-otoshi`| *`Both knees seoi-otoshi`*   |                |
+| 掬投             | Sukui-nage          | † *Scoop throw*           | `   1920---------` | Te-guruma |
+| 背負落           | Seoi-otoshi         | *Shoulder drop*           | `1895------------` | Ryo-hiza-seoi-otoshi <br>Drop knee seoi-otoshi |
 | 体落             | Tai-otoshi          | *Body drop*               | `1895------------` |
 | 帯落             | Obi-otoshi          | *Belt drop*               | `1895------------` |
 | 浮落             | Uki-otoshi          | *Floating drop*           | `1895------------` |
@@ -55,20 +53,20 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 ### 足 技（Ashi-waza）
 
-| Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
-| ---:  | ---: | ---:        | --- |
+| Kanji | Name | Translation | Date added to Kodokan | Alternate names/variations |
+| ---:  | ---: | ---:        | --- | ---: |
 |  出足払 | De-ashi-barai         | *Advanced foot sweep*          | `1895------------` |
 |  送足払 | Okuri-ashi-barai      | *Sliding foot sweep*           | `1895------------` |
 |    膝車 | Hiza-guruma           | *Knee wheel*                   | `1895------------` |
 | 支釣込足 | Sasae-tsurikomi-ashi | *Propping drawing ankle throw* | `1895------------` |
 | 払釣込足 | Harai-tsurikomi-ashi | *Lift pull foot sweep*         | `1895------------` |
-|  大外刈 | O-soto-gari          | *Major outer reap* | `1895------------` |
-|  大内刈 | O-uchi-gari          | *Major inner reap* | `   1920---------` |
-|  小外刈 | Ko-soto-gari         | *Minor outer reap* | `1895------------` |
-|  小内刈 | Ko-uchi-gari         | *Minor inner reap* | `1895------------` |
-|  小外掛 | Ko-soto-gake         | *Minor outer hook* | `   1920---------` |
-|    内股 | Uchi-mata            | *Inner thigh*      | `1895------------` |
-|    足車 | Ashi-guruma          | *Leg wheel*        | `1895------------` |
+|  大外刈 | O-soto-gari           | *Major outer reap* | `1895------------` |
+|  大内刈 | O-uchi-gari           | *Major inner reap* | `   1920---------` | Kata-ashidori |
+|  小外刈 | Ko-soto-gari          | *Minor outer reap* | `1895------------` |
+|  小内刈 | Ko-uchi-gari          | *Minor inner reap* | `1895------------` |
+|  小外掛 | Ko-soto-gake          | *Minor outer hook* | `   1920---------` |
+|    内股 | Uchi-mata             | *Inner thigh*      | `1895------------` |
+|    足車 | Ashi-guruma           | *Leg wheel*        | `1895------------` |
 |    大車 | O-guruma              | *Big wheel*       | `   1920---------` |
 |  大外車 | O-soto-guruma         | *Big outer wheel* | `1895------------` |
 |  大外落 | O-soto-otoshi         | *Big outer drop*  | `1895------------` |
@@ -81,24 +79,22 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 ### 真捨身技（Ma-sutemi-waza）
 
-| Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
-| ---:  | ---: | ---:        | --- |
+| Kanji | Name | Translation | Date added to Kodokan | Alternate names/variations |
+| ---:  | ---: | ---:        | --- | ---: |
 |  裏投 | Ura-nage          | *Rear throw*         | `1895------------` |
-|  巴投 | Tomoe-nage        | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tomoe_2_right.png/900px-Tomoe_2_right.png" height="12"> *'Circle' throw*     | `1895------------` |
+|  巴投 | Tomoe-nage        | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tomoe_2_right.png/900px-Tomoe_2_right.png" height="12"> *'Circle' throw*     | `1895------------` | Yoko-tomoe-nage |
 |  隅返 | Sumi-gaeshi       | *Corner reversal*    | `1895------------` |
 |  引込返 | Hikikomi-gaeshi | *Pulling in reversal* | `1895------------` |
 |  俵返 | Tawara-gaeshi     | *Rice bag reversal*   | `1895------------` |
 
 ### 横捨身技（Yoko-sutemi-waza）
 
-| Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
-| ---:  | ---: | ---:        | --- |
-| 浮技 | Uki-waza        | *Floating technique* | `1895------------` |
-|      |                 | *`Laats Dive In`* <br> (Sometimes called Kata-guruma variant)    |                    |
+| Kanji | Name | Translation | Date added to Kodokan | Alternate names/variations |
+| ---:  | ---: | ---:        | --- | ---: |
+| 浮技 | Uki-waza        | *Floating technique* | `1895------------` | Laats Dive In |
 | 谷落 | Tani-otoshi     | *Valley drop*        | `1895------------` |
 | 横落 | Yoko-otoshi     | *Side drop*          | `1895------------` |
-| 横掛 | Yoko-gake       | *Side hook*        | `1895------------` |
-| `横巴投` | `Yoko-tomoe-nage` | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tomoe_2_right.png/900px-Tomoe_2_right.png" height="12"> *`Side tomoe nage`* | |
+| 横掛 | Yoko-gake       | *Side hook*          | `1895------------` |
 | 横車 | Yoko-guruma     | *Side wheel*       | `1895------------` |
 | 横分 | Yoko-wakare     | *Side separation*  | `1895------------` |
 | 抱分 | Daki-wakare     | *High separation*  | `1895------------` |
