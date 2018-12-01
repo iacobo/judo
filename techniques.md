@@ -91,13 +91,13 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 | Kanji | Name | Translation | Date added to Kodokan | Alternate names/variations |
 | ---:  | ---: | ---:        | --- | ---: |
-| 浮技 | Uki-waza        | *Floating technique* | `1895------------` | Laats Dive In |
-| 谷落 | Tani-otoshi     | *Valley drop*        | `1895------------` |
-| 横落 | Yoko-otoshi     | *Side drop*          | `1895------------` |
-| 横掛 | Yoko-gake       | *Side hook*          | `1895------------` |
-| 横車 | Yoko-guruma     | *Side wheel*       | `1895------------` |
-| 横分 | Yoko-wakare     | *Side separation*  | `1895------------` |
-| 抱分 | Daki-wakare     | *High separation*  | `1895------------` |
+| 浮技       | Uki-waza            | *Floating technique*        | `1895------------` | Laats' Dive In |
+| 谷落       | Tani-otoshi         | *Valley drop*               | `1895------------` |
+| 横落       | Yoko-otoshi         | *Side drop*                 | `1895------------` |
+| 横掛       | Yoko-gake           | *Side hook*                 | `1895------------` |
+| 横車       | Yoko-guruma         | *Side wheel*                | `1895------------` |
+| 横分       | Yoko-wakare         | *Side separation*           | `1895------------` |
+| 抱分       | Daki-wakare         | *High separation*           | `1895------------` |
 | 外巻込     | Soto-makikomi       | *Outer wraparound*          | `1895------------` |
 | 内巻込     | Uchi-makikomi       | *Inner wraparound*          | `1895------------` |
 | 跳巻込     | Hane-makikomi       | *Hane-goshi wraparound*     | `   1920---------` |
@@ -107,8 +107,8 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 小内巻込   | Ko-uchi-makikomi    | *Kouchi-gari wraparound*    | `            2017` |
 | ~~蟹挟~~   | 🚫 ~~Kani-basami~~ | ~~*Crab pinch*~~            | `         1982---` |
 | ~~河津掛~~ | 🚫 ~~Kawazu-gake~~ | ~~*One leg entanglement*~~  | `         1982---` |
-| `彈車`     | `Tama-guruma`      | † *`Jade wheel`*            ||
-| `腕返`     | `Ude-gaeshi`       | *`Arm reversal`*            ||
+| `彈車`     | `Tama-guruma`      | † *`Jade wheel`*            |                    |
+| `腕返`     | `Ude-gaeshi`       | *`Arm reversal`*            |                    |
 
 ---
 
@@ -116,18 +116,18 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 ### 抑 込 技（Osaekomi-waza）
 
-| Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
-| ---:  | ---: | ---:        | --- |
-| 袈裟固     | Kesa-gatame        | *Scarf hold*                    |
-| 崩袈裟固   | Kuzure-kesa-gatame | *Broken kesa-gatame*             |
-| 後袈裟固   | Ushiro-kesa-gatame | *Rear kesa-gatame*               |
-| 肩固       | Kata-gatame        | *Shoulder hold*                 | 
-| 上四方固   | Kami-shiho-gatame   | *Upper four-quarters hold*     |
-| 崩上四方固 | Kuzure-kami-shiho-gatame | *Broken kami-shiho-gatame*   | 
-| 横四方固   | Yoko-shiho-gatame   | *Side four-quarters hold*       |
-| 縦四方固   | Tate-shiho-gatame   | *Vertical four-quarters hold*   |
-| 浮固       | Uki-gatame          | *Floating hold (knee on belly)* |
-| 裏固       | Ura-gatame          | *Back hold*                     | `-------------2014-` |
+| Kanji | Name | Translation | Date added to Kodokan | Alternate names/variations |
+| ---:  | ---: | ---:        | --- | ---: |
+| 袈裟固     | Kesa-gatame             | *Scarf hold*                    |
+| 崩袈裟固   | Kuzure-kesa-gatame      | *Broken kesa-gatame*            |
+| 後袈裟固   | Ushiro-kesa-gatame      | *Rear kesa-gatame*              |
+| 肩固       | Kata-gatame             | *Shoulder hold*                 | 
+| 上四方固   | Kami-shiho-gatame        | *Upper four-quarters hold*     |
+| 崩上四方固 | Kuzure-kami-shiho-gatame | *Broken kami-shiho-gatame*     | 
+| 横四方固   | Yoko-shiho-gatame        | *Side four-quarters hold*      |
+| 縦四方固   | Tate-shiho-gatame        | *Vertical four-quarters hold*  |
+| 浮固       | Uki-gatame              | *Floating hold*                 |                      | Knee on belly |
+| 裏固       | Ura-gatame              | *Back hold*                     | `-------------2014-` |
 
 ### 絞 技（Shime-waza）
 
