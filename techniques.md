@@ -13,7 +13,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 ### 手 技（Te-waza） 
 
-| Kanji  | Name | Translation | Date added to Kodokan | Alternate names/variations |
+| Kanji  | Name | Translation | Date added to Kodokan | Alternate names / variations |
 | ---:   | ---: | ---:        | --- | ---: |
 | 背負投     | Seoi-nage           | *Shoulder throw*               | `1895------------` | Morote-seoi-nage <br>Eri-seoi-nage <br> Kata-eri-seoi-nage |
 | 一本背負投       | Ippon-seoi-nage     | *Single shoulder throw*   | `          1997--` |
@@ -53,7 +53,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 ### 足 技（Ashi-waza）
 
-| Kanji | Name | Translation | Date added to Kodokan | Alternate names/variations |
+| Kanji | Name | Translation | Date added to Kodokan | Alternate names / variations |
 | ---:  | ---: | ---:        | --- | ---: |
 |  出足払 | De-ashi-barai         | *Advanced foot sweep*          | `1895------------` |
 |  送足払 | Okuri-ashi-barai      | *Sliding foot sweep*           | `1895------------` |
@@ -89,14 +89,14 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 ### 横捨身技（Yoko-sutemi-waza）
 
-| Kanji | Name | Translation | Date added to Kodokan | Alternate names/variations |
+| Kanji | Name | Translation | Date added to Kodokan | Alternate names / variations |
 | ---:  | ---: | ---:        | --- | ---: |
 | 浮技       | Uki-waza            | *Floating technique*        | `1895------------` | Laats' Dive In |
 | 谷落       | Tani-otoshi         | *Valley drop*               | `1895------------` |
 | 横落       | Yoko-otoshi         | *Side drop*                 | `1895------------` |
 | 横掛       | Yoko-gake           | *Side hook*                 | `1895------------` |
 | 横車       | Yoko-guruma         | *Side wheel*                | `1895------------` |
-| 横分       | Yoko-wakare         | *Side separation*           | `1895------------` |
+| 横分       | Yoko-wakare         | *Side separation*           | `1895------------` | Ude-gaeshi     |
 | 抱分       | Daki-wakare         | *High separation*           | `1895------------` |
 | 外巻込     | Soto-makikomi       | *Outer wraparound*          | `1895------------` |
 | 内巻込     | Uchi-makikomi       | *Inner wraparound*          | `1895------------` |
@@ -108,7 +108,6 @@ Below is a list of Judo techniques along with their common English names. The 10
 | ~~蟹挟~~   | 🚫 ~~Kani-basami~~ | ~~*Crab pinch*~~            | `         1982---` |
 | ~~河津掛~~ | 🚫 ~~Kawazu-gake~~ | ~~*One leg entanglement*~~  | `         1982---` |
 | `彈車`     | `Tama-guruma`      | † *`Jade wheel`*            |                    |
-| `腕返`     | `Ude-gaeshi`       | *`Arm reversal`*            |                    |
 
 ---
 
@@ -116,13 +115,13 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 ### 抑 込 技（Osaekomi-waza）
 
-| Kanji | Name | Translation | Date added to Kodokan | Alternate names/variations |
+| Kanji | Name | Translation | Date added to Kodokan | Alternate names / variations |
 | ---:  | ---: | ---:        | --- | ---: |
 | 袈裟固     | Kesa-gatame             | *Scarf hold*                    |
 | 崩袈裟固   | Kuzure-kesa-gatame      | *Broken kesa-gatame*            |
 | 後袈裟固   | Ushiro-kesa-gatame      | *Rear kesa-gatame*              |
 | 肩固       | Kata-gatame             | *Shoulder hold*                 | 
-| 上四方固   | Kami-shiho-gatame        | *Upper four-quarters hold*     |
+| 上四方固   | Kami-shiho-gatame        | *Upper four-quarters hold*     |                      | North-South |
 | 崩上四方固 | Kuzure-kami-shiho-gatame | *Broken kami-shiho-gatame*     | 
 | 横四方固   | Yoko-shiho-gatame        | *Side four-quarters hold*      |
 | 縦四方固   | Tate-shiho-gatame        | *Vertical four-quarters hold*  |
@@ -131,35 +130,35 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 ### 絞 技（Shime-waza）
 
-| Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
-| ---:  | ---: | ---:        | --- |
+| Kanji | Name | Translation | Date added to Kodokan | Alternate names / variations |
+| ---:  | ---: | ---:        | --- | --- |
 | 並十字絞 | Nami-juji-jime  | *Normal cross strangle*  |
 | 逆十字絞 | Gyaku-juji-jime | *Reverse cross strangle* |
 | 片十字絞 | Kata-juji-jime  | *Half cross strangle*    |
 | 片羽絞   | Kata-ha-jime    | *Single wing strangle*   |
 | 送襟絞   | Okuri-eri-jime  | *Sliding lapel strangle* |
-| 裸絞     | Hadaka-jime     | *Naked strangle*         |
+| 裸絞     | Hadaka-jime     | *Naked strangle*         | | Rear naked choke |
 | 片手絞   | Kata-te-jime    | *One hand strangle*      |
 | 両手絞   | Ryo-te-jime     | *Two hand strangle*      |
-| 袖車絞   | Sode-guruma-jime | *Sleeve wheel strangle*  |
+| 袖車絞   | Sode-guruma-jime | *Sleeve wheel strangle* |
 | 突込絞   | Tsukkomi-jime   | *Thrust choke*           |
-| 三角絞   | Sankaku-jime    | *Triangle strangle*      |
-| ~~胴絞~~ | 🚫 ~~Do-jime~~ | ~~*Trunk crush*~~     |   | 
+| 三角絞   | Sankaku-jime    | *Triangle choke*         |
+| ~~胴絞~~ | 🚫 ~~Do-jime~~ | ~~*Trunk crush*~~        | 
 | `地獄絞` | `Jigoku-jime`   | `Hell strangle (crucifix strangle)` |
 
 ### 関 節 技（Kansetsu-waza）
 
-| Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
-| ---:  | ---: | ---:        | --- |
-| 腕挫三角固 | Ude-hishigi-sankaku-gatame | *Triangle arm-bar*    |
-| 腕挫腕固  | Ude-hishigi-ude-gatame      | *Arm arm-bar*         |
-| 腕挫膝固  | Ude-hishigi-hiza-gatame     | *Knee arm-bar*        |
-| 腕挫腋固  | Ude-hishigi-waki-gatame     | *Armpit arm-bar*      |
-| 腕挫腹固  | Ude-hishigi-hara-gatame     | *Stomach arm-bar*     |
-| 腕挫脚固  | Ude-hishigi-ashi-gatame     | *Leg arm-bar*         |
-| 腕挫手固  | Ude-hishigi-te-gatame       | *Hand arm-bar*        |
-| 腕挫十字固 | Ude-hishigi-juji-gatame    | *Cross arm-bar*       |
-| 腕緘      | Ude-garami                  | *Arm entanglement*    |
+| Kanji | Name | Translation | Date added to Kodokan | Alternate names / variations |
+| ---:  | ---: | ---:        | --- | --- |
+| 腕挫三角固 | Ude-hishigi-sankaku-gatame | *Triangle hold arm-bar* |
+| 腕挫腕固  | Ude-hishigi-ude-gatame      | *Arm hold arm-bar*     |
+| 腕挫膝固  | Ude-hishigi-hiza-gatame     | *Knee hold arm-bar*    |
+| 腕挫腋固  | Ude-hishigi-waki-gatame     | *Armpit hold arm-bar*  |
+| 腕挫腹固  | Ude-hishigi-hara-gatame     | *Stomach hold arm-bar* |
+| 腕挫脚固  | Ude-hishigi-ashi-gatame     | *Leg hold arm-bar*     |
+| 腕挫手固  | Ude-hishigi-te-gatame       | *Hand hold arm-bar*    |
+| 腕挫十字固 | Ude-hishigi-juji-gatame    | *Cross hold arm-bar*   |
+| 腕緘      | Ude-garami                  | *Arm entanglement*    | | Figure-four lock <br> Keylock <br> Americana <br> Gyaku-ude-garami <br> Kimura <br> ashi-sankaku-garami <br> Omoplata|
 | ~~足緘~~  | 🚫 ~~Ashi-garami~~         | ~~*Leg entanglement*~~ |
 
 ---
