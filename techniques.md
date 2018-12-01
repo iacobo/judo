@@ -121,10 +121,10 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 崩袈裟固   | Kuzure-kesa-gatame      | *Broken kesa-gatame*            |
 | 後袈裟固   | Ushiro-kesa-gatame      | *Rear kesa-gatame*              |
 | 肩固       | Kata-gatame             | *Shoulder hold*                 | 
-| 上四方固   | Kami-shiho-gatame        | *Upper four-quarters hold*     |                      | North-South |
+| 上四方固   | Kami-shiho-gatame        | *Upper four-quarters hold*     |                      | North-South   |
 | 崩上四方固 | Kuzure-kami-shiho-gatame | *Broken kami-shiho-gatame*     | 
 | 横四方固   | Yoko-shiho-gatame        | *Side four-quarters hold*      |
-| 縦四方固   | Tate-shiho-gatame        | *Vertical four-quarters hold*  |
+| 縦四方固   | Tate-shiho-gatame        | *Vertical four-quarters hold*  |                      | Mount         |
 | 浮固       | Uki-gatame              | *Floating hold*                 |                      | Knee on belly |
 | 裏固       | Ura-gatame              | *Back hold*                     | `-------------2014-` |
 
