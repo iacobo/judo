@@ -5,7 +5,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | Key |
 |---|
 |Kodokan technique, c. 2018 |
-|`Non-kodokan technique / Specific variant of Kodokan technique` |
+|`Non-kodokan technique` |
 | † Involves leg grab, banned in IJF competition |
 |🚫 ~~Banned technique, **dangerous**~~ |
 
