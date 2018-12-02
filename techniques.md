@@ -19,7 +19,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 一本背負投       | Ippon-seoi-nage     | *Single shoulder throw*   | `          1997--` |
 | 裏投             | Ura-nage            | *Rear throw*              | `1895------------` |
 | 掬投             | Sukui-nage          | † *Scoop throw*           | `   1920---------` | Te-guruma |
-| 背負落           | Seoi-otoshi         | *Shoulder drop*           | `1895------------` | Ryo-hiza-seoi-otoshi <br>Drop knee seoi-otoshi |
+| 背負落           | Seoi-otoshi         | *Shoulder drop*           | `1895------------` | Ryo-hiza-seoi-otoshi<br>Drop knee seoi-otoshi |
 | 体落             | Tai-otoshi          | *Body drop*               | `1895------------` |
 | 帯落             | Obi-otoshi          | *Belt drop*               | `1895------------` |
 | 浮落             | Uki-otoshi          | *Floating drop*           | `1895------------` |
@@ -42,7 +42,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 腰車     | Koshi-guruma        | *Hip wheel*             | `1895------------` |
 | 払腰     | Harai-goshi         | *Sweeping hip*          | `1895------------` |
 | 跳腰     | Hane-goshi          | *Spring hip*            | `1895------------` |
-| 釣腰     | Tsuri-goshi         | *Lifting hip*           | `1895------------` | O-tsuri-goshi <br>Ko-tsuri-goshi |
+| 釣腰     | Tsuri-goshi         | *Lifting hip*           | `1895------------` | O-tsuri-goshi<br>Ko-tsuri-goshi |
 | 釣込腰   | Tsurikomi-goshi     | *Lifting and pulling hip*                | `  1911----------` (?) |
 | 袖釣込腰 | Sode-tsurikomi-goshi | *Sleeve lifting and pulling hip*        | `          1997--` |
 | 移腰     | Utsuri-goshi        | *Hip shift <br> (counter to koshi-waza)* | `1895------------` |
@@ -158,7 +158,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 腕挫脚固  | Ude-hishigi-ashi-gatame     | *Leg hold arm-bar*     |
 | 腕挫手固  | Ude-hishigi-te-gatame       | *Hand hold arm-bar*    |
 | 腕挫十字固 | Ude-hishigi-juji-gatame    | *Cross hold arm-bar*   |
-| 腕緘      | Ude-garami                  | *Arm entanglement*    | | Figure-four lock <br> Keylock <br> Americana <br> Gyaku-ude-garami <br> Kimura <br> ashi-sankaku-garami <br> Omoplata|
+| 腕緘      | Ude-garami                  | *Arm entanglement*    | | Figure-four lock<br>Keylock<br>Americana<br>Gyaku-ude-garami<br>Kimura<br>Ashi-sankaku-garami<br>Omoplata|
 | ~~足緘~~  | 🚫 ~~Ashi-garami~~         | ~~*Leg entanglement*~~ |
 
 ---
