@@ -39,7 +39,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | ---:  | ---: | ---:        | --- | ---: |
 | 浮腰     | Uki-goshi           | *Floating hip*          | `1895------------` |
 | 大腰     | O-goshi             | *Major hip*             | `1895------------` |
-| 腰車     | Koshi-guruma        | *Hip wheel*             | `1895------------` |
+| 腰車     | Koshi-guruma        | *Hip wheel*             | `1895------------` | Kubi-nage |
 | 払腰     | Harai-goshi         | *Sweeping hip*          | `1895------------` |
 | 跳腰     | Hane-goshi          | *Spring hip*            | `1895------------` |
 | 釣腰     | Tsuri-goshi         | *Lifting hip*           | `1895------------` | O-tsuri-goshi<br>Ko-tsuri-goshi |
