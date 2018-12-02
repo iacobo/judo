@@ -1,5 +1,7 @@
 Academic papers on judo, grappling sports, strength training etc of interest.
 
+https://scholar.google.co.uk/scholar?start=20&q=judo&hl=en&as_sdt=0,5
+
 ### Strength training
 
 ### Mental health, hormonal levels etc
