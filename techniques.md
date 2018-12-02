@@ -149,7 +149,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 ### 関 節 技（Kansetsu-waza）
 
 | Kanji | Name | Translation | Date added to Kodokan | Alternate names / variations |
-| ---:  | ---: | ---:        | --- | --- |
+| ---:  | ---: | ---:        | --- | ---: |
 | 腕挫三角固 | Ude-hishigi-sankaku-gatame | *Triangle hold arm-bar* |
 | 腕挫腕固  | Ude-hishigi-ude-gatame      | *Arm hold arm-bar*     |
 | 腕挫膝固  | Ude-hishigi-hiza-gatame     | *Knee hold arm-bar*    |
