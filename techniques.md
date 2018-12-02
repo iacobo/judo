@@ -35,14 +35,14 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 ### 腰 技（Koshi-waza）
 
-| Kanji | Name | Translation | Date added to Kodokan Gokyo no waza |
+| Kanji | Name | Translation | Date added to Kodokan | Alternate names / variations |
 | ---:  | ---: | ---:        | --- |
 | 浮腰     | Uki-goshi           | *Floating hip*          | `1895------------` |
 | 大腰     | O-goshi             | *Major hip*             | `1895------------` |
 | 腰車     | Koshi-guruma        | *Hip wheel*             | `1895------------` |
 | 払腰     | Harai-goshi         | *Sweeping hip*          | `1895------------` |
 | 跳腰     | Hane-goshi          | *Spring hip*            | `1895------------` |
-| 釣腰     | Tsuri-goshi         | *Lifting hip*           | `1895------------` |
+| 釣腰     | Tsuri-goshi         | *Lifting hip*           | `1895------------` | O-tsuri-goshi <br>Ko-tsuri-goshi |
 | 釣込腰   | Tsurikomi-goshi     | *Lifting and pulling hip*                | `  1911----------` (?) |
 | 袖釣込腰 | Sode-tsurikomi-goshi | *Sleeve lifting and pulling hip*        | `          1997--` |
 | 移腰     | Utsuri-goshi        | *Hip shift <br> (counter to koshi-waza)* | `1895------------` |
