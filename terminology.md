@@ -34,13 +34,13 @@ Words with rendaku variants in common Judo terms are displayed below thus `-rend
 | 両   | Ryo    | Both / Two                   |
 | 三角 | Sankaku | Triangle                    |
 | 十字 | Jūji    | Cross                       | 
-| 巴   | Tomoe   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tomoe_2_right.png/900px-Tomoe_2_right.png" height="12"> Japanese symmetriclal shape, similar to the Taijitu ☯ |
+| 巴   | Tomoe   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tomoe_2_right.png/900px-Tomoe_2_right.png" height="12"> Japanese symmetrical shape, similar to the Taijitu ☯ |
 
 ## Clothes etc
 
 | Kanji | Romaji | Translation |
 |---:   | ---:   | ---:        |
-| 袈裟                | Kesa      | Scarf <br> (Lit. [*"Kāṣāya"*](https://en.wikipedia.org/wiki/Kasaya_(clothing)), Buddhsit robes) |
+| 袈裟                | Kesa      | Scarf <br> (Lit. [*"Kāṣāya"*](https://en.wikipedia.org/wiki/Kasaya_(clothing)), Buddhist robes) |
 | 襟                  | Eri       | Collar / lapel     | 
 | 袖                  | Sode      | Sleeve / arm, wing | 
 | 柔道着<br> / 柔道衣  | Judogi    | Judo uniform        |
