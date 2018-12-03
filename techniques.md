@@ -57,7 +57,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | ---:  | ---: | ---:        | --- | ---: |
 |  出足払 | De-ashi-barai         | *Advanced foot sweep*          | `1895------------` |
 |  送足払 | Okuri-ashi-barai      | *Sliding foot sweep*           | `1895------------` |
-|    膝車 | Hiza-guruma           | *Knee wheel*                   | `1895------------` |
+|  膝車 | Hiza-guruma           | *Knee wheel*                   | `1895------------` |
 | 支釣込足 | Sasae-tsurikomi-ashi | *Propping drawing ankle throw* | `1895------------` |
 | 払釣込足 | Harai-tsurikomi-ashi | *Lift pull foot sweep*         | `1895------------` |
 |  大外刈 | O-soto-gari           | *Major outer reap* | `1895------------` |
