@@ -16,7 +16,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | Kanji  | Name | Translation | Date added to Kodokan | Alternate names / variations |
 | ---:   | ---: | ---:        | --- | ---: |
 | 背負投     | Seoi-nage           | *Shoulder throw*               | `1895------------` | Back-carrying throw<br>Morote-seoi-nage<br>Eri-seoi-nage<br>Kata-eri-seoi-nage |
-| 一本背負投       | Ippon-seoi-nage     | *Single [arm] seoi-nage*   | `          1997--` |
+| 一本背負投 | Ippon-seoi-nage     | *Single [arm] seoi-nage*   | `          1997--` |
 | 裏投             | Ura-nage            | *Rear throw*              | `1895------------` |
 | 掬投             | Sukui-nage          | † *Scoop throw*           | `   1920---------` | Te-guruma |
 | 背負落           | Seoi-otoshi         | *Shoulder drop*           | `1895------------` | Ryo-hiza-seoi-otoshi<br>Drop knee seoi-otoshi |
@@ -27,7 +27,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 山嵐             | Yama-arashi         | *Mountain storm*          | `1895------------` |
 | 帯取返           | Obi-tori-gaeshi     | *Belt take reversal*      | `            2017` |
 | 小内返           | Ko-uchi-gaeshi      | *Kouchi reverse <br> (counter to kouchi-gari)* | `         1982---` |
-| 内股すかし       | Uchi-mata-sukashi   | *Uchi-mata void <br> (counter to uchi-mata)* | `         1982---` |
+| 内股すかし | Uchi-mata-sukashi   | *Uchi-mata void <br> (counter to uchi-mata)* | `         1982---` |
 | 朽木倒           | Kuchiki-taoshi      | † *Single leg takedown* | `         1982---` |
 | 踵返             | Kibisu-gaeshi       | † *One hand reversal*   | `         1982---` |
 | 肩車             | Kata-guruma         | † *Shoulder wheel*      | `1895------------` |
