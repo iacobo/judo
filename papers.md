@@ -8,8 +8,7 @@ Academic papers on judo, grappling sports, strength training etc of interest.
 
 ### Mental health, hormonal levels etc
 - [Anticipatory cortisol, testosterone and psychological responses to judo competition in young men](https://www.sciencedirect.com/science/article/pii/S0306453002000288)
-- [Eating attitudes, body esteem, perfectionism and anxiety of judo athletes and nonathletes](
-https://www.thieme-connect.com/products/ejournals/html/10.1055/s-2006-924334)
+- [Eating attitudes, body esteem, perfectionism and anxiety of judo athletes and nonathletes](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-2006-924334)
 - [Psychophysiological stress in judo athletes during competitions](https://www.researchgate.net/profile/Claude_Ferrand/publication/11894841_Psychophysiological_stress_in_judo_athletes_during_competition/links/0912f5131beeaa27ee000000.pdf)
 - [Food restriction, performance, biochemical, psychological, and endocrine changes in judo athletes](http://www.judoliitto.fi/site/assets/files/4107/foodrestrictiondegoutte.pdf)
 - [Judo—the gentle way: A replication of studies on martial arts and aggression](http://journals.sagepub.com/doi/abs/10.2466/pms.1999.88.3.992)
@@ -30,12 +29,12 @@ https://www.thieme-connect.com/products/ejournals/html/10.1055/s-2006-924334)
 
 
 ### Performance levels, physiological measurements
-- [Physiological characteristics of elite judo athletes](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-2007-1024667)
-- [Physiological profiles of elite judo athletes](https://link.springer.com/article/10.2165/11538580-000000000-00000)
+- [Physical fitness and anthropometrical profile of the Brazilian male judo team](https://www.jstage.jst.go.jp/article/jpa2/26/2/26_2_59/_article/-char/ja/)
 - [Physiological profiles of the Canadian National Judo Team.](https://europepmc.org/abstract/med/2819609)
 - [A physiological profile of the Canadian judo team.](https://europepmc.org/abstract/med/7300299)
+- [Physiological characteristics of elite judo athletes](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-2007-1024667)
+- [Physiological profiles of elite judo athletes](https://link.springer.com/article/10.2165/11538580-000000000-00000)
 - [Physical fitness and anthropometrical differences between elite and non-elite judo players](http://www.academia.edu/download/41680373/Physical_fitness_and_anthropometrical_di20160128-30781-13i2iv.pdf)
-- [Physical fitness and anthropometrical profile of the Brazilian male judo team](https://www.jstage.jst.go.jp/article/jpa2/26/2/26_2_59/_article/-char/ja/)
 - [Physiological and performance responses to overtraining in elite judo athletes](https://www.researchgate.net/profile/Robin_Callister/publication/20869343_Physiological_and_performance_responses_to_overtraining_in_elite_judo_athletes/links/5813338508aeb720f6825e7b/Physiological-and-performance-responses-to-overtraining-in-elite-judo-athletes.pdf)
 - [Differences in fat-free mass and muscle thicknesses at various sites according to performance level among judo athletes](http://www.judoliitto.fi/site/assets/files/4107/differences_20in_20fat-free_20mass.pdf)
 - [Effects of recovery type after a judo combat on blood lactate removal and on performance in an intermittent anaerobic task](https://www.researchgate.net/profile/Fabio_Nakamura/publication/8883112_Effects_of_recovery_type_after_a_judo_combat_on_blood_lactate_removal_and_on_performance_in_an_intermittent_anaerobic_task/links/00b7d51f67e4ea2ba0000000/Effects-of-recovery-type-after-a-judo-combat-on-blood-lactate-removal-and-on-performance-in-an-intermittent-anaerobic-task.pdf)
@@ -59,8 +58,7 @@ https://www.thieme-connect.com/products/ejournals/html/10.1055/s-2006-924334)
 
 
 ### Injury
-- [Acute injuries in soccer, ice hockey, volleyball, basketball, judo, and karate: analysis of national registry data](
-https://www.bmj.com/content/311/7018/1465.abstract)
+- [Acute injuries in soccer, ice hockey, volleyball, basketball, judo, and karate: analysis of national registry data](https://www.bmj.com/content/311/7018/1465.abstract)
 - [Injuries in judo: a systematic literature review including suggestions for prevention](https://bjsm.bmj.com/content/47/18/1139.short)
 - [Complete avulsion of the hamstring tendons from the ischial tuberosity. A report of two cases sustained in judo.](http://bjsm.bmj.com/content/30/1/72.short)
 - [Vertebral-artery dissection following a judo session: a case report](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-2008-1071595)
