@@ -144,7 +144,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 突込絞   | Tsukkomi-jime   | *Thrust choke*           |
 | 三角絞   | Sankaku-jime    | *Triangle choke*         |
 | ~~胴絞~~ | 🚫 ~~Do-jime~~ | ~~*Trunk crush*~~        | 
-| `地獄絞` | `Jigoku-jime`   | `Hell strangle (crucifix strangle)` |
+| `地獄絞` | `Jigoku-jime`   | `Hell strangle`          | | Crucifix strangle |
 
 ### 関 節 技（Kansetsu-waza）
 
@@ -157,7 +157,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 腕挫腹固  | Ude-hishigi-hara-gatame     | *Stomach hold arm-bar* |
 | 腕挫脚固  | Ude-hishigi-ashi-gatame     | *Leg hold arm-bar*     |
 | 腕挫手固  | Ude-hishigi-te-gatame       | *Hand hold arm-bar*    |
-| 腕挫十字固| Ude-hishigi-juji-gatame    | *Cross hold arm-bar*   |
+| 腕挫十字固| Ude-hishigi-juji-gatame     | *Cross hold arm-bar*   |
 | 腕緘      | Ude-garami                  | *Arm entanglement*    | | Figure-four lock<br>Keylock<br>Americana<br>Gyaku-ude-garami<br>Kimura<br>Ashi-sankaku-garami<br>Omoplata|
 | ~~足緘~~  | 🚫 ~~Ashi-garami~~         | ~~*Leg entanglement*~~ |
 
