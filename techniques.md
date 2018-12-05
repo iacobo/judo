@@ -60,12 +60,12 @@ Below is a list of Judo techniques along with their common English names. The 10
 |  膝車 | Hiza-guruma           | *Knee wheel*                   | `1895------------` |
 | 支釣込足 | Sasae-tsurikomi-ashi | *Propping drawing ankle throw* | `1895------------` |
 | 払釣込足 | Harai-tsurikomi-ashi | *Lift pull foot sweep*         | `1895------------` |
-|  大外刈 | O-soto-gari           | *Major outer reap* | `1895------------` |
-|  大内刈 | O-uchi-gari           | *Major inner reap* | `   1920---------` | Kata-ashidori |
+|  大外刈 | O-soto-gari           | *Major outer reap* | `1895------------` | Ken-ken-o-soto-gari |
+|  大内刈 | O-uchi-gari           | *Major inner reap* | `   1920---------` | Ken-ken-o-uchi-gari<br>Kata-ashidori |
 |  小外刈 | Ko-soto-gari          | *Minor outer reap* | `1895------------` |
 |  小内刈 | Ko-uchi-gari          | *Minor inner reap* | `1895------------` |
 |  小外掛 | Ko-soto-gake          | *Minor outer hook* | `   1920---------` |
-|  内股 | Uchi-mata             | *Inner thigh*      | `1895------------` |
+|  内股 | Uchi-mata             | *Inner thigh*      | `1895------------` | Ken-ken-uchi-mata |
 |  足車 | Ashi-guruma           | *Leg wheel*        | `1895------------` |
 |  大車 | O-guruma              | *Big wheel*       | `   1920---------` |
 |  大外車 | O-soto-guruma         | *Big outer wheel* | `1895------------` |
