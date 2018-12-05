@@ -41,7 +41,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 大腰     | O-goshi             | *Major hip*             | `1895____________` |
 | 腰車     | Koshi-guruma        | *Hip wheel*             | `1895____________` | Kubi-nage |
 | 払腰     | Harai-goshi         | *Sweeping hip*          | `1895____________` |
-| 跳腰     | Hane-goshi          | *Spring hip*            | `1895____________` |
+| 跳腰     | Hane-goshi          | *Spring hip*            | `1895____________` | Koshi-uchi-mata |
 | 釣腰     | Tsuri-goshi         | *Lifting hip*           | `1895____________` | O-tsuri-goshi<br>Ko-tsuri-goshi |
 | 釣込腰 | Tsurikomi-goshi     | *Lifting and pulling hip*                | `..1911__________` (?) |
 | 袖釣込腰| Sode-tsurikomi-goshi | *Sleeve lifting and pulling hip*        | `..........1997__` |
@@ -65,7 +65,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 |  小外刈 | Ko-soto-gari          |.*Minor outer reap* | `1895____________` |
 |  小内刈 | Ko-uchi-gari          |.*Minor inner reap* | `1895____________` |
 |  小外掛 | Ko-soto-gake          | *Minor outer hook* | `...1920_________` |
-| 内股 | Uchi-mata             | *Inner thigh*      | `1895____________` | Ken-ken-uchi-mata<br>Koshi-uchi-mata |
+| 内股 | Uchi-mata             | *Inner thigh*      | `1895____________` | Ken-ken-uchi-mata |
 | 足車 | Ashi-guruma           | *Leg wheel*        | `1895____________` |
 | 大車 | O-guruma              | *Big wheel*       | `...1920_________` |
 |  大外車 | O-soto-guruma         | *Big outer wheel* | `1895____________` |
