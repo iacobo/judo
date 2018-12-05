@@ -127,6 +127,9 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 縦四方固 | Tate-shiho-gatame        | *Vertical four-quarters hold*  |                      | Mount         |
 | 浮固     | Uki-gatame              | *Floating hold*                 |                      | Knee on belly |
 | 裏固     | Ura-gatame              | *Back hold*                     | `.............2014_` |
+| | `Back mount` |
+| | `Guard`      |
+| | `Half guard` |
 
 ### 絞 技（Shime-waza）
 
@@ -167,3 +170,27 @@ Sources:
 
 - http://kodokanjudoinstitute.org/en/waza/list/
 - http://kodokanjudoinstitute.org/en/news/2017/04/names-of-judo-technique/
+
+
+---
+
+# Non-kodokan techniques
+
+### Grips (Kumi-kata)
+
+- Collar, sleeve
+- Pistol
+- Pocket
+- Russian
+- High collar
+- Belt
+- Back
+- Uki-goshi
+- Double lapel
+
+### Grips (clasps)
+
+- Cable grip
+- S grip
+- Pretzel grip
+- Ball and socket grip
