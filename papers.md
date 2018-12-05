@@ -41,7 +41,7 @@ https://www.thieme-connect.com/products/ejournals/html/10.1055/s-2006-924334)
 - [Effects of recovery type after a judo combat on blood lactate removal and on performance in an intermittent anaerobic task](https://www.researchgate.net/profile/Fabio_Nakamura/publication/8883112_Effects_of_recovery_type_after_a_judo_combat_on_blood_lactate_removal_and_on_performance_in_an_intermittent_anaerobic_task/links/00b7d51f67e4ea2ba0000000/Effects-of-recovery-type-after-a-judo-combat-on-blood-lactate-removal-and-on-performance-in-an-intermittent-anaerobic-task.pdf)
 - [Effects of recovery type after a judo match on blood lactate and performance in specific and non-specific judo tasks](https://link.springer.com/article/10.1007/s00421-009-1134-2)
 - [Motor control and cerebral hemispheric specialization in highly qualified judo wrestlers](https://www.sciencedirect.com/science/article/pii/S0028393201002275)
-- [Judo, better than dance, develops sensorimotor adaptabilities involved in balance control(https://www.sciencedirect.com/science/article/pii/S0966636201001497)
+- [Judo, better than dance, develops sensorimotor adaptabilities involved in balance control](https://www.sciencedirect.com/science/article/pii/S0966636201001497)
 
 ### Neurological measurements
 - [Can exercise shape your brain? Cortical differences associated with judo practice](https://www.sciencedirect.com/science/article/pii/S1440244008002144)
