@@ -65,7 +65,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 |  小外刈 | Ko-soto-gari          |.*Minor outer reap* | `1895____________` |
 |  小内刈 | Ko-uchi-gari          |.*Minor inner reap* | `1895____________` |
 |  小外掛 | Ko-soto-gake          | *Minor outer hook* | `...1920_________` |
-| 内股 | Uchi-mata             | *Inner thigh*      | `1895____________` | Ken-ken-uchi-mata |
+| 内股 | Uchi-mata             | *Inner thigh*      | `1895____________` | Ken-ken-uchi-mata<br>Koshi-uchi-mata |
 | 足車 | Ashi-guruma           | *Leg wheel*        | `1895____________` |
 | 大車 | O-guruma              | *Big wheel*       | `...1920_________` |
 |  大外車 | O-soto-guruma         | *Big outer wheel* | `1895____________` |
