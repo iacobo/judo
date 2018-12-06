@@ -16,7 +16,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | Kanji  | Name | Translation | Date added to Kodokan | Alternate names / variations |
 | ---:   | ---: | ---:        | --- | ---: |
 | 背負投     | Seoi-nage           | *Shoulder throw*               | `1895____________` | Back-carrying throw<br>Morote-seoi-nage<br>Eri-seoi-nage<br>Kata-eri-seoi-nage<br>Drop knee seoi-nage |
-| 一本背負投 | Ippon-seoi-nage     | *Single [arm] seoi-nage*    | `..........1997__` |
+|一本背負投| Ippon-seoi-nage     | *Single [arm] seoi-nage*    | `..........1997__` |
 | 裏投             | Ura-nage            | *Rear throw*              | `1895____________` |
 | 掬投             | Sukui-nage          | † *Scoop throw*           | `...1920_________` | Te-guruma |
 | 背負落           | Seoi-otoshi         | *Shoulder drop*           | `1895____________` | Ryo-hiza-seoi-otoshi<br>Drop knee seoi-otoshi |
@@ -57,13 +57,13 @@ Below is a list of Judo techniques along with their common English names. The 10
 | ---:  | ---: | ---:        | --- | ---: |
 |  出足払 | De-ashi-barai         | *Advanced foot sweep*          | `1895____________` |
 |  送足払 | Okuri-ashi-barai      | *Sliding foot sweep*           | `1895____________` |
-|. 膝車 | Hiza-guruma           | *Knee wheel*                   | `1895____________` |
-| 支釣込足| Sasae-tsurikomi-ashi | *Propping drawing ankle throw* | `1895____________` |
-| 払釣込足| Harai-tsurikomi-ashi | *Lift pull foot sweep*         | `1895____________` |
+| 膝車 | Hiza-guruma           | *Knee wheel*                   | `1895____________` |
+|支釣込足| Sasae-tsurikomi-ashi | *Propping drawing ankle throw* | `1895____________` |
+|払釣込足| Harai-tsurikomi-ashi | *Lift-pull foot sweep*         | `1895____________` |
 |  大外刈 | O-soto-gari           | *Major outer reap* | `1895____________` | Ken-ken-o-soto-gari |
 |  大内刈 | O-uchi-gari           | *Major inner reap* | `...1920_________` | Ken-ken-o-uchi-gari<br>Kata-ashidori |
-|  小外刈 | Ko-soto-gari          |.*Minor outer reap* | `1895____________` |
-|  小内刈 | Ko-uchi-gari          |.*Minor inner reap* | `1895____________` |
+|  小外刈 | Ko-soto-gari          | *Minor outer reap* | `1895____________` |
+|  小内刈 | Ko-uchi-gari          | *Minor inner reap* | `1895____________` |
 |  小外掛 | Ko-soto-gake          | *Minor outer hook* | `...1920_________` |
 | 内股 | Uchi-mata             | *Inner thigh*      | `1895____________` | Ken-ken-uchi-mata |
 | 足車 | Ashi-guruma           | *Leg wheel*        | `1895____________` |
@@ -72,7 +72,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 |  大外落 | O-soto-otoshi         | *Big outer drop*  | `1895____________` |
 |  大外返 | O-soto-gaeshi         | *Osoto reversal <br> (counter to osoto-gari)* | `.........1982___` |
 |  大内返 | O-uchi-gaeshi         | *Ouchi reversal <br> (counter to ouchi-gari)* | `.........1982___` |
-|. 燕返 | Tsubame-gaeshi        | *Swallow reversal <br> (counter to ashi-waza)*      | `.........1982___` |
+| 燕返 | Tsubame-gaeshi        | *Swallow reversal <br> (counter to ashi-waza)*      | `.........1982___` |
 |  跳腰返 | Hane-goshi-gaeshi     | *Hane-goshi reversal <br> (counter to hane-goshi)*   | `.........1982___` |
 |  払腰返 | Harai-goshi-gaeshi    | *Harai-goshi reversal <br> (counter to harai-goshi)* | `.........1982___` |
 |  内股返 | Uchi-mata-gaeshi      | *Uchi-mata reversal <br> (counter to uchi-mata)*     | `.........1982___` |
@@ -100,7 +100,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 抱分     | Daki-wakare         | *High separation*           | `1895____________` |
 | 外巻込   | Soto-makikomi       | *Outer wraparound*          | `1895____________` |
 | 内巻込   | Uchi-makikomi       | *Inner wraparound*          | `1895____________` |
-| 跳巻込   | Hane-makikomi       | *Hane-goshi wraparound*     | `...1920________-` |
+| 跳巻込   | Hane-makikomi       | *Hane-goshi wraparound*     | `...1920_________` |
 | 払巻込   | Harai-makikomi      | *Harai-goshi wraparound*    | `.........1982___` |
 | 内股巻込 | Uchi-mata-makikomi  | *Uchi-mata wraparound*      | `.........1982___` |
 | 大外巻込 | O-soto-makikomi     | *Osoto-gari wraparound*     | `.........1982___` |
@@ -177,19 +177,17 @@ Sources:
 # Non-kodokan techniques
 
 ### Grips (Kumi-kata)
-
 - Collar, sleeve
+- High collar
+- Russian
+- Belt
+- Uki-goshi
+
+### Grips (alt. grabbing styles)
 - Pistol
 - Pocket
-- Russian
-- High collar
-- Belt
-- Back
-- Uki-goshi
-- Double lapel
 
 ### Grips (clasps)
-
 - Cable grip
 - S grip
 - Pretzel grip
