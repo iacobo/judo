@@ -15,7 +15,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 
 | Kanji  | Name | Translation | Date added to Kodokan | Alternate names / variations |
 | ---:   | ---: | ---:        | --- | ---: |
-| 背負投     | Seoi-nage           | *Shoulder throw*               | `1895____________` | Back-carrying throw<br>Morote-seoi-nage<br>Eri-seoi-nage<br>Kata-eri-seoi-nage<br>Drop knee seoi-nage |
+| 背負投     | Seoi-nage           | *Shoulder throw*               | `1895____________` | Back-carrying throw<br>Morote-seoi-nage<br>---<br>Eri-seoi-nage<br>Kata-eri-seoi-nage<br>---<br>Drop knee seoi-nage |
 |一本背負投| Ippon-seoi-nage     | *Single [arm] seoi-nage*    | `..........1997__` |
 | 裏投             | Ura-nage            | *Rear throw*              | `1895____________` |
 | 掬投             | Sukui-nage          | † *Scoop throw*           | `...1920_________` | Te-guruma |
@@ -42,7 +42,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 腰車     | Koshi-guruma        | *Hip wheel*             | `1895____________` | Kubi-nage |
 | 払腰     | Harai-goshi         | *Sweeping hip*          | `1895____________` |
 | 跳腰     | Hane-goshi          | *Spring hip*            | `1895____________` | Koshi-uchi-mata |
-| 釣腰     | Tsuri-goshi         | *Lifting hip*           | `1895____________` | O-tsuri-goshi<br>Ko-tsuri-goshi |
+| 釣腰     | Tsuri-goshi         | *Lifting hip*           | `1895____________` | O-tsuri-goshi<br>---<br>Ko-tsuri-goshi |
 | 釣込腰 | Tsurikomi-goshi     | *Lifting and pulling hip*                | `..1911__________` (?) |
 | 袖釣込腰| Sode-tsurikomi-goshi | *Sleeve lifting and pulling hip*        | `..........1997__` |
 | 移腰     | Utsuri-goshi        | *Hip shift <br> (counter to koshi-waza)* | `1895____________` |
@@ -61,7 +61,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 |支釣込足| Sasae-tsurikomi-ashi | *Propping drawing ankle throw* | `1895____________` |
 |払釣込足| Harai-tsurikomi-ashi | *Lift-pull foot sweep*         | `1895____________` |
 |  大外刈 | O-soto-gari           | *Major outer reap* | `1895____________` | Ken-ken-o-soto-gari |
-|  大内刈 | O-uchi-gari           | *Major inner reap* | `...1920_________` | Ken-ken-o-uchi-gari<br>Kata-ashidori |
+|  大内刈 | O-uchi-gari           | *Major inner reap* | `...1920_________` | Ken-ken-o-uchi-gari<br>---<br>Kata-ashidori |
 |  小外刈 | Ko-soto-gari          | *Minor outer reap* | `1895____________` |
 |  小内刈 | Ko-uchi-gari          | *Minor inner reap* | `1895____________` |
 |  小外掛 | Ko-soto-gake          | *Minor outer hook* | `...1920_________` |
@@ -161,7 +161,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 腕挫脚固  | Ude-hishigi-ashi-gatame     | *Leg hold arm-bar*     |
 | 腕挫手固  | Ude-hishigi-te-gatame       | *Hand hold arm-bar*    |
 | 腕挫十字固| Ude-hishigi-juji-gatame     | *Cross hold arm-bar*   |
-| 腕緘      | Ude-garami                  | *Arm entanglement*    | | Figure-four lock<br>Keylock<br>Americana<br>Gyaku-ude-garami<br>Kimura<br>Ashi-sankaku-garami<br>Omoplata|
+| 腕緘      | Ude-garami                  | *Arm entanglement*    | | Figure-four lock<br>Keylock<br>Americana<br>---<br>Gyaku-ude-garami<br>Kimura<br>---<br>Ashi-sankaku-garami<br>Omoplata|
 | ~~足緘~~  | 🚫 ~~Ashi-garami~~         | ~~*Leg entanglement*~~ |
 
 ---
