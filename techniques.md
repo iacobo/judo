@@ -121,7 +121,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 崩袈裟固 | Kuzure-kesa-gatame      | *Broken kesa-gatame*            |                      | Makura-kesa-gatame
 | 後袈裟固 | Ushiro-kesa-gatame      | *Rear kesa-gatame*              |
 | 肩固     | Kata-gatame             | *Shoulder hold*                 |                     | Side control  | 
-|         | Mune-gatame              | *Chest hold*                   |                     | Side control  |
+| 胸固     | Mune-gatame              | *Chest hold*                   |                     | Side control  |
 | 上四方固 | Kami-shiho-gatame        | *Upper four-quarters hold*     |                      | North-South   |
 | 崩上四方固 | Kuzure-kami-shiho-gatame | *Broken kami-shiho-gatame*     | 
 | 横四方固 | Yoko-shiho-gatame        | *Side four-quarters hold*      |
@@ -160,7 +160,7 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 腕挫腹固  | Ude-hishigi-hara-gatame     | *Stomach hold arm-bar* |
 | 腕挫脚固  | Ude-hishigi-ashi-gatame     | *Leg hold arm-bar*     |
 | 腕挫手固  | Ude-hishigi-te-gatame       | *Hand hold arm-bar*    |
-| 腕挫十字固| Ude-hishigi-juji-gatame     | *Cross hold arm-bar*   |
+| 腕挫十字固| Ude-hishigi-jūji-gatame     | *Cross hold arm-bar*   | | Jūji-gatame<br>---<br>Tobi-jūji-gatame<br>Flying armbar<br>---<br>Sankaku-gatame<br>Triangle armlock|
 | 腕緘      | Ude-garami                  | *Arm entanglement*    | | Figure-four lock<br>Keylock<br>Americana<br>---<br>Gyaku-ude-garami<br>Kimura<br>---<br>Ashi-sankaku-garami<br>Omoplata|
 | ~~足緘~~  | 🚫 ~~Ashi-garami~~         | ~~*Leg entanglement*~~ |
 
