@@ -124,12 +124,11 @@ Below is a list of Judo techniques along with their common English names. The 10
 | 上四方固 | Kami-shiho-gatame        | *Upper four-quarters hold*     |                      | North-South   |
 | 崩上四方固 | Kuzure-kami-shiho-gatame | *Broken kami-shiho-gatame*     | 
 | 横四方固 | Yoko-shiho-gatame        | *Side four-quarters hold*      |
-| 縦四方固 | Tate-shiho-gatame        | *Vertical four-quarters hold*  |                      | Mount         |
+| 縦四方固 | Tate-shiho-gatame        | *Vertical four-quarters hold*  |                      | Mount<br>Full mount<br>---<br>`Mount with hooks in` |
 | 浮固     | Uki-gatame              | *Floating hold*                 |                      | Knee on belly |
 | 裏固     | Ura-gatame              | *Back hold*                     | `.............2014_` |
-| | `Back mount` |
-| | `Guard`      |
-| | `Half guard` |
+| | `Back mount` |    |    | Rear mount<br>---<br>Back mount with hooks in |
+| | `Guard`      |    |    | Open guard<br>---<br>Half guard<br>---<br>Butterfly guard<br>---<br>Spider guard<br>---<br>X guard|
 
 ### 絞 技（Shime-waza）
 
@@ -175,6 +174,11 @@ Sources:
 ---
 
 # Non-kodokan techniques
+
+# Guard passes
+- Simple Guard Pass, Arm/Leg Pull
+- Stacking Guard Pass
+- Near Knee Guard Pass
 
 ### Grips (Kumi-kata)
 - Collar, sleeve
